@@ -6,14 +6,25 @@ Sie haben sich für ein Studium der Informatik entschieden und sitzen an Ihrem e
 
 ## Aufgabe
 
-  - Erstellen Sie eine Übersicht über die Gebiete der Informatik und worum es in diesen Gebieten geht.
-  - Betrachten Sie auch die Geschichte der Informatik betrachten, einschließlich der wichtigen technischen Meilensteine und der beteiligten Personen.
-  - Stellen Sie die verschiedenen Einsatzgebiete von Computern zusammen.
+  - Erstellen Sie eine Übersicht der verschiedenen Gebiete der Informatik, insbesondere
+    - Technische Informatik
+    - Theoretische Informatik
+    - Praktische Informatik
+    - Angewandte Informatik
+  - Erstellen Sie eine Übersicht über die historische Entwicklung des Computers bis ca. 1930
+  - Erstellen Sie eine Übersicht über die Entwicklung des Computers ab 1930 und gehen Sie auf die verschiedenen Generationen der Computer ein
+  - Definieren Sie den Begriff __Algorithmus__
+  - Finden Sie heraus, um was es sich bei __Moore's Law__ handelt
+  - Stellen Sie eine Liste der für die Geschichte der Informatik wichtigen Personen zusammen wichtigen
+  - Finden Sie heraus, welches das erste Computerspiel war
+  - Erstellen Sie einen Vergleich der Rechengeschwindigkeit von Computern in den 60er, 70er, 80er, 90er, 2000er Jahren und heute
   - Zeigen Sie, wie stark wir heute von Computern bzw. Informationstechnik abhängen. Geben Sie mindestens drei Beispiele für solche Abhängigkeiten.
 
 ## Themen
 
   - Geschichte der Informatik
+  - Historische Entwicklung des Computers
+  - Wichtige Personen
   - Einsatzgebiete von Computern
   - Gebiete der Informatik
   - Bedeutung der Informatik in unserem Alltag
@@ -22,20 +33,23 @@ Sie haben sich für ein Studium der Informatik entschieden und sitzen an Ihrem e
 
   - Abakus
   - Algorithmus
-  - Rechengesetze nach Adam Riese
   - Rechenmaschinen
-  - Analytical Engine
+  - Computer
   - Lochkarte
-  - Hollerith Maschine
-  - Erster Computer
-  - Wichtige Personen
   - Computer-Generationen
   - Moore's Law
-  - Angewandte Informatik
-  - Theoretische Informatik
-  - Praktische Informatik
-  - Technische Informatik
+  - Informatik
+    - Angewandte Informatik
+    - Theoretische Informatik
+    - Praktische Informatik
+    - Technische Informatik
+  - Computer Science
 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 25--45
+  * [Wikipedia](http://de.wikipedia.org)
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.
