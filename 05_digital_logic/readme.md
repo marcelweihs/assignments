@@ -17,8 +17,26 @@ Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welc
 
 ## Begriffe
 
-Schlüsselbegriffe:, Absorptionsgesetz, Ampere, Amperesekunde, Assoziativgesetz, Aussage, De Morgansche Gesetz, Diode, Disjunktion, Disjunktive Normalform, Distributivgesetz, Doppelnegation, Exklusiv-Nicht-Oder, Exklusiv-Oder, Halb-Addierer, Idempotenzgesetz, Implikation, Kilowattstunden, Kommutativgesetz, Konjunktion, Konjunktive Normalform, Kontravalenz, Ladungsträger, Logikgatter, Maxterme, Minterme, Negation, Nicht, Nicht-Oder, Nicht-Und, Oder, Ohm, Ohmsches Gesetz, Parallelschaltung, Reihenschaltung, Schaltfunktion, Schiebeoperationen, Tautologie, Und, Voll-Addierer, Volt, Wahrheitstafel, Watt, Widerspruch, boolesche Operatoren, Äquivalenz, Übertragsbit
+  - Absorptionsgesetz
+  - Ampere, Volt, Ohm, Watt
+  - Aussage
+  - Gesetze: Assoziativgesetz, De Morgansche Gesetz, Distributivgesetz, Idempotenzgesetz, Kommutativgesetz
+  - Diode
+  - Disjunktion
+  - Halb-Addierer
+  - Implikation
+  - Konjunktion
+  - Ladungsträger
+  - Logikgatter
+  - Maxterme, Minterme
+  - Ohmsches Gesetz
+  - Parallel- und Reihenschaltung
+  - Wahrheitstafel
 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 81--87 und S. 557--602, S. 639--665
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.
