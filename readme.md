@@ -4,7 +4,7 @@
 
   1. [Einführung](01_intro/readme.md)
   2. [Information](02_information/readme.md)
-  3. [Kompression und Codierung](03_compression/readme.md)
+  3. [Kompression und Codierung](03_codes/readme.md)
   4. [Computerhardware](04_hardware/readme.md)
   5. [Schaltnetze](05_digital_logic/readme.md)
   6. [Betriebssysteme](06_os/readme.md)

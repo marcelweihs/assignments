@@ -35,4 +35,24 @@ Geben Sie die Schaltfunktion in disjunktiver Normalform an, erstellen Sie das zu
 
 
 #### Aufgabe 6
+Berechnen Sie für den unten angegebenen Stromkreis, welche Leistung (in Watt) verbraucht wird.
+
+![](img/stromkreis_einfach.png)
+
+
+#### Aufgabe 7
+Berechnen Sie für den unten angegebenen Stromkreis alle fehlenden Größen.
+
 ![](img/stromkreis_komplex.png)
+
+
+#### Aufgabe 8
+Entwerfen Sie unter Verwendung von Gattern mit zwei Eingängen ein Oder-Gatter mit 4 Eingängen.
+
+
+#### Aufgabe 9
+Entwerfen Sie eine Schaltung mit Gattern, die prüft ob einer der Passagiere seinen Gurt geschlossen hat (High-Signal vom Gurtsensor). Ist der Platz leer (Low-Signal vom Sitzplatzsensor)
+so darf auch der Gurt offen sein. Ist der Platz besetzt und der Gurt offen soll die
+Schaltung ein High-Signal ausgeben. Verknüpfen Sie dann zwei Sitzplätze zu einem Ergebnis-Signal.
+
+Entwerfen Sie zuerst eine Wahrheitstabelle und geben Sie dann eine Schaltung mit Gattern an.

@@ -10,15 +10,33 @@ Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welch
 
 ## Themen
 
-  - Genereller Aufbau
+  - Genereller Aufbau: Zentraleinheit, Eingabe, Ausgabe
   - CPU
-  - Speicher
-  - Peripherie
+  - Speicher: RAM, Cache
+  - Peripherie: Massenspeicher
 
 ## Begriffe
 
-Schlüsselbegriffe: ALU, Adresse, Anwendungsprogramme, Betriebssystem, Big Endian, Block, Bus, Byte, CISC, CPU, Central Processing Unit, Clock, DRAM, Doppelwort, Exabyte, Exbibyte, Festplatte, Funktionseinheiten, Gibibyte, Gigabyte, Hardware, Hauptspeicher, Instruction Register, Kibibyte, Kilobyte, Langwort, Latenz, Little Endian, Maschineninstruktionen, Maschinensprache, Mebibyte, Megabyte, Pebibyte, Petabyte, Primärspeicher, Program Counter, RAM, RISC, ROM, SRAM, SSD, Sekundärspeicher, Software, Solid-State-Drive, Steuerwerk, Suchzeit, Systemprogramme, Tebibyte, Terabyte, Tertiärspeicher, Transferrate, Wort, direktadressierbaren Speichermedien, high-order byte, low-order byte
+  - ALU
+  - Adresse
+  - Bus
+  - CPU, Central Processing Unit
+  - Festplatte
+  - Hauptspeicher
+  - Instruction Register
+  - Maschinensprache
+  - Primärspeicher
+  - Program Counter
+  - RAM, ROM
+  - SSD (Solid-State-Drive)
+  - Sekundärspeicher
+  - Steuerwerk
+  - Tertiärspeicher
 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 91--134
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

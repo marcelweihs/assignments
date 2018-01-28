@@ -4,7 +4,7 @@
 Lässt sich die Zahl π als Nachricht übermitteln?
 
 #### Aufgabe 2
-Schätzungen zufolge besteht das Universum aus einer Tredezillion Atomen (10^78). Welche Bitbreite ist mindestens notwendig, um diese Zahl im Rechner zu speichern?*
+Schätzungen zufolge besteht das Universum aus einer Tredezillion Atomen (10^78). Welche Bitbreite ist mindestens notwendig, um diese Zahl im Rechner zu speichern?
 
 #### Aufgabe 3
 Vervollständigen Sie die leeren Felder:
@@ -56,7 +56,6 @@ Führen Sie die folgenden binären Rechenoperationen durch
 
 
 #### Aufgabe 7
-
 Überlegen Sie sich ein Schema, wie das folgende Bild in Bits umgewandelt werden kann. Versuchen Sie die Daten so kompakt wie möglich abzulegen.
 
 ![](img/mario.png)

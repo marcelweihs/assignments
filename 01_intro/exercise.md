@@ -15,7 +15,7 @@ Nennen Sie zu jeder Computergeneration die Technologie, die sie möglich gemacht
 Welche Bedeutung kommt Konrad Zuse zu? Warum wird sein Beitrag häufig übersehen?
 
 #### Aufgabe 5
-Der Intel Core i7-620M (Arrandale) hatte im Januar 2010 382 Millionen Transistoren. Wieviele ransistoren müsste nach Moores Vorhersage ein Core i7-5557U (Broadwell-U) im Januar 2015 gehabt haben? Wieviele Transistoren hatte er wirklich?
+Der Intel Core i7-620M (Arrandale) hatte im Januar 2010 382 Millionen Transistoren. Wieviele Transistoren müsste nach Moores Vorhersage ein Core i7-5557U (Broadwell-U) im Januar 2015 gehabt haben? Wieviele Transistoren hatte er wirklich?
 
 #### Aufgabe 6
 Welche Algorithmen kennen Sie bereits? Nennen Sie Beispiele und wie der Algorithmus abläuft.
