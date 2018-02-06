@@ -10,7 +10,7 @@ Recherchieren Sie den Aufbau und die Funktionen eines Betriebssystems. Welche Di
 
 ## Themen
 
-  - Geschichte und Zweck
+  - Geschichte und Zweck von Betriebssystemen
   - Aufbau und Dienste
   - Systemkommandos (shell)
 
@@ -21,3 +21,7 @@ Schlüsselbegriffe: tbd
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 433--459
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

@@ -29,7 +29,6 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
 
 ## Begriffe
 
-
   - Basiszahl
   - Binärsystem, Dezimalsystem
   - Bit, Byte

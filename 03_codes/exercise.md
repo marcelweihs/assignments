@@ -31,7 +31,7 @@ Wie lautet die empfangene Nachricht? Sind Übertragungsfehler aufgetreten? Wenn
 
 
 #### Aufgabe 4
-Berechnen Sie für die Nachricht ` 1101011010` die CRC-Prüfsumme mit dem Prüfpolynom `10011`.
+Berechnen Sie für die Nachricht `1101011010` die CRC-Prüfsumme mit dem Prüfpolynom `10011`.
 
 
 #### Aufgabe 5
