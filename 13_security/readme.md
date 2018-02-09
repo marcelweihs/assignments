@@ -20,8 +20,33 @@ Beschaffen Sie sich Informationen zu den Prinzipien der IT-Sicherheit und auf we
 
 ## Begriffe
 
-Schlüsselbegriffe: Authentifizierung, Autorisierung, Benutzer, Berechtigung, DSA, Einwegfunktionen, Glaubwürdigkeit, HTTP secure, HttpOnly, IT-Sicherheit, Identity-Management, Integrität, Least privileges, PGP, RSA, Rolle, Schlüssel, Schlüsselpaar, Secure, Segregation of duty, TLS, Transportsicherheit, User-Management, Verbindlichkeit, Verfügbarkeit, Vertraulichkeit
+  - Authentifizierung
+  - Autorisierung
+  - Benutzer
+  - Berechtigung
+  - DSA
+  - Einwegfunktionen
+  - Glaubwürdigkeit
+  - IT-Sicherheit
+  - Identity-Management
+  - Integrität
+  - Least privileges
+  - PGP
+  - RSA
+  - Rolle
+  - Schlüsselpaar
+  - Segregation of duty
+  - TLS
+  - Transportsicherheit
+  - User-Management
+  - Verbindlichkeit
+  - Verfügbarkeit
+  - Vertraulichkeit
 
 ## Quellen
 
 ????
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

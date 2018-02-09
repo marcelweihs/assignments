@@ -16,8 +16,34 @@ Recherchieren Sie zu der Frage, was Programmierung generell ist, welche Werkzeug
 
 ## Begriffe
 
-Schlüsselbegriffe: Ableiten, Ableitungsbaum, Akzeptieren, Algorithmus, Alphabet, Analysieren, Assembler, Auswahl, Backus-Naur-Form (BNF), Bedingung, Elementare Operationen, Erweiterte Backus-Naur-Form (EBNF), Höhere Programmiersprache, Iteration, Kanten, Klammerung, Lexik, Maschinensprache, Menge aller Zeichenreihen, Metasyntax der BNF, Nonterminal, Nonterminalsymbolen, Optionale Satzbausteine, Parallelität, Pragmatik, Produktionsregeln, Programm, Programmiersprache, Reguläre Ausdrücke, Rekursion, Schleife, Schlüsselwörter, Semantik, Sequenz, Sprache, Startsymbol, Syntax / Syntaxregeln, Syntax-Diagramm, Syntax-Diagramme, Terminal, Terminalsymbole, Türme von Hanoi, Unterprogramm, Zeichenklassen, effizient, endlicher Automat, korrekt
+  - Programmierwerkzeuge
+  - Compiler
+  - Quellprogramm
+  - Zielprogramm
+  - Linker
+  - Lader
+  - Debugger
+  - Assembler
+  - Bedingung
+  - Höhere Programmiersprache
+  - Lexik
+  - Maschinensprache
+  - Pragmatik
+  - Programm
+  - Programmiersprache
+  - Reguläre Ausdrücke
+  - Rekursion
+  - Schleife
+  - Schlüsselwörter
+  - Semantik
+  - Sequenz
+  - Syntax-Diagramm
+  - Unterprogramm
 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 135--159
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

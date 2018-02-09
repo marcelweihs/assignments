@@ -1,12 +1,14 @@
 # Übungen
 
-#### Aufgabe 1
+#### Aufgabe: Pi als Nachricht
 Lässt sich die Zahl π als Nachricht übermitteln?
 
-#### Aufgabe 2
+
+#### Aufgabe: Atome im Universum
 Schätzungen zufolge besteht das Universum aus einer Tredezillion Atomen (10^78). Welche Bitbreite ist mindestens notwendig, um diese Zahl im Rechner zu speichern?
 
-#### Aufgabe 3
+
+#### Aufgabe: Umwandlung zwischen Zahlensystemen (Ganzzahlen)
 Vervollständigen Sie die leeren Felder:
 
 | Dezimal | Binär    | Oktal | Hexadezimal |
@@ -17,7 +19,7 @@ Vervollständigen Sie die leeren Felder:
 |         |          |       | 4AC         |
 
 
-#### Aufgabe 4:
+#### Aufgabe: Umwandlung zwischen Zahlensystemen (Bruchzahlen)
 Vervollständigen Sie die leeren Felder:
 
 | Dezimal | Binär    | Oktal | Hexadezimal |
@@ -28,7 +30,7 @@ Vervollständigen Sie die leeren Felder:
 |         |          |       | AC,8        |
 
 
-#### Aufgabe 5:
+#### Aufgabe: Gleitkommazahlen nach IEEE
 Während der Fehlersuche stoßen Sie auf das folgende Speicherabbild:
 
 `C0 98 00 00 00 00 00 00`
@@ -41,7 +43,7 @@ Welche Werte werden dargestellt, wenn Sie die Werte
 Nehmen Sie für Ihre Betrachtung an, dass die Bytes in natürlicher Reihenfolge im Speicher abgelegt sind (Big-Endian-Format).
 
 
-#### Augabe 6:
+#### Augabe: Rechnen im Binärsystem
 Führen Sie die folgenden binären Rechenoperationen durch
 
   * `110101 + 11001 =`
@@ -55,9 +57,17 @@ Führen Sie die folgenden binären Rechenoperationen durch
   * `110001 − 1101101 =`
 
 
-#### Aufgabe 7
+#### Aufgabe: Sinn des Zwerikomplements
+Warum ist es sinnvoll, einen Wert im Zweierkomplement darzustellen, bzw. worin liegt der Vorteil zur Darstellung im Einerkomplement?
+
+
+#### Aufgabe: Bild codieren
 Überlegen Sie sich ein Schema, wie das folgende Bild in Bits umgewandelt werden kann. Versuchen Sie die Daten so kompakt wie möglich abzulegen.
 
 ![](img/mario.png)
 
 Codieren Sie die erste und die letzte Zeile nach Ihrem Schema und geben Sie das Ergebnis an. Gruppieren Sie dabei die Bits in Bytes.
+
+
+#### Aufgabe: Bits in einem Byte umdrehen
+Angenommen, Sie wollen die mittleren 4 Bits eines Bytes umdrehen, wie gehen Sie am einfachsten Vor (Bitmaske und Operation)?

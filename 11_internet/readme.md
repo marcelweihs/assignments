@@ -15,6 +15,28 @@ Netflix geht immer noch nicht. Sie haben zwar die Leitung wieder zusammengeflick
 
 ## Begriffe
 
+  - IP (Internet Protocol)
+  - DNS (Domain Name System)
+  - FTP (File Transfer Protocol)
+  - HTTP (Hypertext Transfer Protocol)
+  - POP3 (Post Office Protocol 3)
+  - SMTP (Simple Mail Transfer Protocol)
+  - SSH (Secure Shell)
+  - TCP (Transmission Control Protocol)
+  - UDP (User Datagram Protocol)
+  - HyperText Markup Language (HTML)
+  - Auszeichnungssprache (markup language)
+  - Zeichenkodierung
+  - Tags
+  - Universalattribute
+  - Meta-Tags
+  - HTML-Formulare
+
+
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 477--511
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

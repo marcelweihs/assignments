@@ -20,4 +20,7 @@ Ihr Onkel ist im Außendienst einer großen Baufirma tätig und muss immer sehr 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 697--744
-  *
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

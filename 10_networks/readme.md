@@ -18,9 +18,26 @@ Schauen Sie sich Informationen zum Aufbau und zur Funktion von Computernetzen an
 
 ## Begriffe
 
-Schlüsselbegriffe: (Computer)Netzwerk, 100Base-T, 10Base-T, 10GBASE-T, ACK, ARP, Anwendungsschicht, Bitübertragung, Bridge, Broadcast, Broadcast-Adresse, CIDR, DHCP (Dynamic Host Configuration Protocol), DHCP-Server, DNS, Extended Unique Identifier (EUI), FTP, Fenstergröße, GbE, HTTP, HTTPS, Hierarchisches Adressen, Host-zu-Netz, Hub, IMAP4, Kommunikationspartnern, Link Local Unicast Adressen, Link-Layer Adresse, Loopback Adresse, MAC-Adresse, MDA, MTA, MUA, Multicast, Multicast-Adressen, NIC, NTP, Name-Server, Namensauflösung, Netzmaske, POP3, Präfix, Präsentationsschicht, RDP, Rahmen, Router, SMTP, SSH, SYN ACK, Sequenznummer, Sicherung, Sitzungsschicht, Switch, TLD, Telnet, Thicknet, Thinnet, Transmission Control Protocol, Transportschicht, UDP, Unicast, Unique Local Unicast Adressen, Unspecified Address, User Datagram Protocol, Vermittlungsschicht, Zonen, address, authorative name server, canonical name, ccTLD, gTLD, half close, iSCSI, mail exchange, media access control, name server, pointer, primary name server, registered ports, rsync, slave name server, text, transmission control protocol, user datagram protocol, well known ports
+  - Netzwerk
+  - Anwendungsschicht
+  - Bitübertragung
+  - Bridge
+  - Broadcast
+  - DHCP (Dynamic Host Configuration Protocol)
+  - Hub
+  - Multicast
+  - Netzmaske
+  - Präsentationsschicht
+  - Sitzungsschicht
+  - Switch
+  - Transportschicht
+  - Vermittlungsschicht
 
 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 463--475
+
+## Übung
+
+Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.
