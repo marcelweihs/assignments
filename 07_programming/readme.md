@@ -43,6 +43,15 @@ Recherchieren Sie zu der Frage, was Programmierung generell ist, welche Werkzeug
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 135--159
+  * Video: [Early Programming: Crash Course Computer Science #10](https://youtu.be/nwDq4adJwzM)
+  * Video: [The First Programming Languages: Crash Course Computer Science #11 https://](outu.be/RU1u-js7db8)
+  * Video: [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://youtu.be/l26oaHV7D40)
+  * Video: [Intro to Algorithms: Crash Course Computer Science #13](https://youtu.be/rL8X2mlNHPM)
+  * Video: [TheSimpleInformatics: Was ist ein Algorithmus? - Einstieg Algorithmen 1](https://youtu.be/2UvK-8DyXyc)
+  * Video: [TheSimpleInformatics: Terminiert, deterministisch, determiniert - Algorithmus Eigenschaften - Algorithmen 2](https://youtu.be/MrOrqWHwRGU)
+  * Video: [TheSimpleInformatics: Partiell Korrekt vs Total Korrekt - Algorithmus Eigenschaften - Algorithmen 3](https://youtu.be/RRIYgn7124g)
+  * Video: [TheSimpleInformatics: Eigenschaften von Algorithmen erkennen: Typische Aufgabe - Algorithmen 4](https://youtu.be/XtmqE2T3Ioc)
+
 
 ## Übung
 

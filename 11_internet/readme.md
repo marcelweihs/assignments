@@ -36,6 +36,8 @@ Netflix geht immer noch nicht. Sie haben zwar die Leitung wieder zusammengeflick
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 477--511
+  * Video: [The Internet: Crash Course Computer Science #29](https://youtu.be/AEaKrq3SpW8)
+  * Video: [The World Wide Web: Crash Course Computer Science #30](https://youtu.be/guvsH5OFizE)
 
 ## Übung
 

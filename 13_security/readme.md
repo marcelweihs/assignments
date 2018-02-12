@@ -47,6 +47,10 @@ Beschaffen Sie sich Informationen zu den Prinzipien der IT-Sicherheit und auf we
 
 ????
 
+  * Video: [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0)
+  * Video: [Hackers & Cyber Attacks: Crash Course Computer Science #32](https://youtu.be/_GzE99AmAQU)
+  * Video: [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o)
+
 ## Übung
 
 Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

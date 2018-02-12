@@ -3,6 +3,7 @@
 #### Aufgabe: C/S-Modell vs. P2P
 Vergleichen Sie Client/Server-Modell mit dem Peer-to-Peer-Modell
 
+
 #### Aufgabe: DNS
 Wenn die Adresse eines Computers im Internet `batman.batcave.metropolis.gov`, was können Sie über die Struktur der Domain aussagen, in der dieser Computer steht?
 

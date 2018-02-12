@@ -1,6 +1,5 @@
 # Übungen
 
-
 #### Aufgabe: TCP-Verbindungsaufbau
 Nennen Sie die drei Phasen eines TCP-Verbindungsaufbaus.
 

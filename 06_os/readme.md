@@ -16,11 +16,36 @@ Recherchieren Sie den Aufbau und die Funktionen eines Betriebssystems. Welche Di
 
 ## Begriffe
 
-Schlüsselbegriffe: tbd
+  - Stapelbetrieb (Batchbetrieb)
+  - User-Interface
+  - Multiprogrammierung
+  - Spooling
+  - Timesharing
+  - Application Programming Interface
+  - Prozessmanagement
+  - Speicherverwaltung
+  - Dateiverwaltung
+  - Gerätetreiber
+  - Kernel
+  - Prozess
+  - Thread
+  - Scheduler
+  - Scheduling: Kooperativ / Preemtiv
+  - Synchronisation
+  - Semaphore
+  - Deadlock
+  - Eingebettete Systeme
 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 433--459
+  * Video: [Operating Systems: Crash Course Computer Science #18](https://youtu.be/26QPDBe-NB8)
+  * Video: [Memory & Storage: Crash Course Computer Science #19](https://youtu.be/TQCr9RV7twk)
+  * Video: [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM)
+  * Video: [Keyboards & Command Line Interfaces: Crash Course Computer Science #22](https://youtu.be/4RPtJ9UyHS0)
+  * Video: [SEPL Goethe University Frankfurt: Prozesse im Betriebssystem](https://youtu.be/H5TQ33chWJY)
+  * Video: [SEPL Goethe University Frankfurt: Der Scheduler im Betriebssystem](https://youtu.be/jomb7SPkUOo)
+  * Video: [SEPL Goethe University Frankfurt: Virtueller Speicher](https://youtu.be/QbhUfIkxqHc)
 
 ## Übung
 

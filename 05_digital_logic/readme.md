@@ -36,6 +36,19 @@ Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welc
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 81--87 und S. 557--602, S. 639--665
+  * Video: [TheSimplePhysics: Einfache Elektrische Schaltung - Schaltungen und Stromkreise 1](https://youtu.be/Nc9HCLzac1E)
+  * Video: [TheSimplePhysics: Kurzschluss, Leerlauf und Stromrichtung - Schaltungen und Stromkreise 2](https://youtu.be/L-5q_FZXMBo)
+  * Video: [TheSimplePhysics: Reihen- & Parallelschaltung - Schaltungen und Stromkreise 3](https://youtu.be/UBcIpGsj8sk)
+  * Video: [TheSimplePhysics: Strom & Spannung Grundlagen](https://youtu.be/yzV1qwCHZ1I)
+  * Video: [TheSimplePhysics: Ohmsches Gesetz und Widerstände](https://youtu.be/ELp4nubPKqA)
+  * Video: [TheSimplePhysics: Serien- und Parallelschaltung von Widerständen](https://youtu.be/D_RTkZDJ_3M)
+  * Video: [TheSimpleMaths: Negation, Konjunktion, Disjunktion – Aussagenlogik 1](https://youtu.be/inwIsNIaWJM)
+  * Video: [TheSimpleMaths: Implikation & Äquivalenz - Aussagenlogik 2](https://youtu.be/G8uK9hKH6wc)
+  * Video: [TheSimpleMaths: De Morgansche Gesetze – Aussagenlogik 3](https://youtu.be/UMRtnOFzR8k)
+  * Video: [TheSimpleInformatics: Gatter - Logische Bausteine & Schaltnetze 1](https://youtu.be/gdgB1BbI7vc)
+  * Video: [TheSimpleInformatics: Decoder - Logische Bausteine & Schaltnetz 2](https://youtu.be/Qo_0PGusJfU)
+  * Video: [TheSimpleInformatics: Encoder - Logische Bausteine & Schaltnetz 3](https://youtu.be/jVvgFSWeuKE)
+  * Video: [TheSimpleInformatics: Schaltungen und Schaltnetze kreieren - Logische Bausteine & Schaltnetze 4](https://youtu.be/N1CxwUqZNGA)
 
 ## Übung
 

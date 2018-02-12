@@ -51,7 +51,16 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
   * [Wikipedia: Unicode](https://de.wikipedia.org/wiki/Unicode)
   * [Wikipedia: ISO-8859-1](https://de.wikipedia.org/wiki/ISO_8859)
   * [Wikipedia: Audio-Sampling](https://de.wikipedia.org/wiki/Abtastrate)
-
+  * Video: [Boolean Logic & Logic Gates: Crash Course Computer Science #3](https://youtu.be/gI-qXk7XojA)
+  * Video: [Representing Numbers and Letters with Binary: Crash Course Computer Science #4](https://youtu.be/1GSjbWt0c9M)
+  * Video: [TheSimpleMaths: Das Binärsystem / Dualsystem ft. brainfaqk](https://youtu.be/6WsI95N0QKU)
+  * Video: [TheSimpleMaths: Das Hexadezimalsystem ft. TheSimpleMaths](https://youtu.be/-6Je-FuAufk)
+  * Video: [TheSimpleInformatics: Bits und Bytes: Binärziffern 0 und 1 - Arithmetik in Computern 1](https://youtu.be/0Exik_Q3kDk)
+  * Video: [TheSimpleInformatics: Darstellung ganzer Zahlen - Arithmetik in Computern 2](https://youtu.be/XG-rVDpm9A4)
+  * Video: [TheSimpleInformatics: Darstellung ganzer Zahlen - Arithmetik in Computern 2](https://youtu.be/XG-rVDpm9A4)
+  * Video: [TheSimpleInformatics: Grundbegriffe Datendarstellung - Daten- und Zeichendarstellung 1](https://youtu.be/szmRgTgztJo)
+  * Video: [TheSimpleInformatics: p-adische Zahlendarstellung - Daten- und Zeichendarstellung 2](https://youtu.be/WzqlPXslQL8)
+  *
 ## Übung
 
 Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.

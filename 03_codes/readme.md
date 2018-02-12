@@ -41,8 +41,11 @@ Sie haben so viel gelernt über die Darstellung von Daten im Computer, dass Sie 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 749--798
-  * [Youtube: Datenkompression LZ77 Kodierung](https://www.youtube.com/watch?v=dxlOFcnGE-w)
-  * [Youtube: LZW-Kodierung](https://www.youtube.com/watch?v=dLvvGXwKUGw)
+  * Video: [Compression: Crash Course Computer Science #21](https://youtu.be/OtDxDvCpPL4)
+  * Video: [Bleeptrack: Huffmancode](https://youtu.be/9crj8ISweLE)
+  * Video: [Bleeptrack: Hammingcode](https://youtu.be/sANR9nA-8rA)
+  * Video: [Bleeptrack: Datenkompression LZ77 Kodierung](https://youtu.be/dxlOFcnGE-w)
+  * Video: [Bleeptrack: LZW-Kodierung](https://youtu.be/dLvvGXwKUGw)
 
 ## Übung
 

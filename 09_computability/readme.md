@@ -9,6 +9,8 @@ Ihr Onkel ist im Außendienst einer großen Baufirma tätig und muss immer sehr 
 ## Themen
 
   - Berechenbare und nicht berechenbare Funktionen
+  - Turing-Maschine
+  - Determinismus / Nicht-Determinismus
   - Berechenbarkeitskonzepte
   - Unlösbare Probleme
   - Betrachtung von Laufzeiten
@@ -20,6 +22,20 @@ Ihr Onkel ist im Außendienst einer großen Baufirma tätig und muss immer sehr 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 697--744
+  * Video: [Berechenbarkeit #01 - Einführung](https://youtu.be/E42XIfOHnWs)
+  * Video: [Berechenbarkeit #02 - Church-Turing-These](https://youtu.be/B2nu5PY9kZQ)
+  * Video: [Berechenbarkeit #03 - Deterministische Turing-Maschinen](https://youtu.be/qDv9pVMiKTc)
+  * Video: [Berechenbarkeit #05 - Varianten von Turing-Maschinen](https://youtu.be/OjTN47u4IsE)
+  * Video: [Berechenbarkeit #11 - Funktionen berechnen](https://youtu.be/OL4OwgNzB3k)
+  * Video: [Berechenbarkeit #12 - Komposition Turing-berechenbarer Funktionen](https://youtu.be/Dw1ROIZ6x1s)
+  * Video: [Berechenbarkeit #13 - WHILE-Programme](https://youtu.be/_32q0khmI_8)
+  * Video: [Berechenbarkeit #14 - WHILE-Programme (Beispiele) https://](outu.be/PZtATCH-Sms)
+  * Video: [Komplexität #01 - Einführung https://](outu.be/Bxv-JVtfjis)
+  * Video: [Komplexität #02 - Zeitkomplexität von Algorithmen](https://youtu.be/Vg9yOo32MXw)
+  * Video: [Komplexität #03 - P, NP und ExpTime](https://youtu.be/UI0txXt1z1I)
+  * Video: [Komplexität #04 - Probleme in P https://](outu.be/lUGpBpZ-9ts)
+  * Video: [Komplexität #07 - Probleme in NP](https://youtu.be/oyygkKj7MKc)
+
 
 ## Übung
 
