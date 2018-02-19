@@ -98,3 +98,11 @@ Entwerfen Sie einen Algorithmus, der ausgehend von zwei Zeichenketten (__Strings
 
 #### Aufgabe: Algorithmus finden
 Vier Steiger (A, B, C, D) haben nur eine Laterne uns müssen durch einen Stollen im Bergwerk. Der Stolen ist so schmal, dass nur maximal zwei Steiger gleichzeitig durch den Stollen gehen können. A braucht eine Minute, B zwei Minuten, C vier Minuten und D acht Minuten für die Strecke. Wenn zwei zusammen unterwegs sind, gehen sie mit der Geschwindigkeit des langsamere der beiden. Durch den Stollen können sie nur gehen, wenn sie die Laterne dabei haben. Wie kann man alle vier in nur 15 Minuten durch den Stollen bekommen? Wie sind Sie das Problem angegangen?
+
+
+#### Aufgabe: C-Programm kompilieren
+Versuchen Sie das C-Programm im Ordner [src/C](src/C) zu kompilieren und zu linken. Welche Ausgabe macht das Programm?
+
+
+#### Aufgabe: Ruby-Programm ausführen
+Im Ordner [src/Ruby](src/Ruby) finden Sie ein einfaches Ruby-Programm. Führen Sie dieses Programm aus. Welche Ausgabe macht das Programm?
