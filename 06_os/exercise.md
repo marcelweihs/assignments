@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Betriebssysteme
 
 #### 1. OS auf dem Smartphone
 Welches Betriebssystem befindet sich in welcher Version auf Ihrem Smartphone? Welche wesentlichen Eigenschaften hat dieses Betriebssystem?

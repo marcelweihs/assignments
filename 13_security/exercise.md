@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Sicherheit
 
 #### 1. kryptografische Methoden
 Welche kryptografischen Methoden kennen Sie?

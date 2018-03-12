@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Internet
 
 #### 1. C/S-Modell vs. P2P
 Vergleichen Sie Client/Server-Modell mit dem Peer-to-Peer-Modell

@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Programmierung
 
 #### 1. Eigenschaften eines Algorithmus
 Der Abzieh-Algorithmus arbeitet wie folgt:

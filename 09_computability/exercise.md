@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Berechenbarkeit und Komplexität
 
 #### 1. Turingmaschine
 Was ist eine Turingmaschine?

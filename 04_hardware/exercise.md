@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Hardware
 
 #### 1. PC konfigurieren
 Stellen Sie zwei PCs zusammen, einmal einen mit maximaler Leistung für Computer-Spiele und einmal einen einfachen Rechner für das Surfen im Internet. Verwenden Sie keinen komplett PC, sondern stellen Sie die Geräte aus einzelnen Komponenten zusammen, die Sie im Internet bei einem Hardware-Versand (z.B. [Alternate](https://www.alternate.de)) finden. Stellen Sie eine Stückliste, inklusive Preisen zusammen.

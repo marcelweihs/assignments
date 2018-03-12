@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Formale Sprachen und Automaten
 
 #### 1. Parkscheinautomat
 Auf einem Parkplatz kostet das Parken 1,50 Euro. Ein Parkscheinautomat akzeptiert 50 Cent, 1 Euro und 2 Euro-Münzen. Nach Einwurf der korrekten Geldsumme liefert er das Ticket und ggf. das Restgeld. Er besitzt keine Abbruchtaste.
