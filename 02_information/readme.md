@@ -11,6 +11,7 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
   - Finden Sie heraus, wie gebrochene Zahlen in den Zahlensystemen (insbesondere im Dualsystem) dargestellt werden.
   - Stellen Sie zusammen, wie ein Computer Zahlen speichert und welche Probleme es dabei gibt.
   - Recherchieren Sie zu der Frage, wie im Computer Informationen gespeichert werden und vor allem, wie verschiedene Daten in einer einzigen Maschine verarbeitet werden können.
+  - Finden Sie heraus, wie man Texte am Computer speichert und wieso es hier unterschiedliche "Codierungen" gibt.
   - Beantworten Sie die Frage, wieso der Zähler bei YouTube auf -1 umspringen konnte, weil gerade Sie das Video angesehen haben. Was hat es mit der seltsame Zahl 2147483647 und was mit -1 auf sich?
 
 ## Themen

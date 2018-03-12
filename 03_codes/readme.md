@@ -17,6 +17,7 @@ Sie haben so viel gelernt über die Darstellung von Daten im Computer, dass Sie 
   - Paritätsprüfung (Ein- und Zweidimensional)
   - CRC-Prüfsummen
   - Verlustbehaftete und verlustlose Kompression
+  - Fano Bedingung
   - Lauflängencodierung
   - Huffmann-Kodierung
   - Lempel-Ziv-Kompression

@@ -1,14 +1,18 @@
 # Übungen
 
-#### Aufgabe: Pi als Nachricht
+#### Das Bit
+Wie viele Zustände lassen sich mit einem Bit darstellen
+
+
+#### Pi als Nachricht
 Lässt sich die Zahl π als Nachricht übermitteln?
 
 
-#### Aufgabe: Atome im Universum
+#### Atome im Universum
 Schätzungen zufolge besteht das Universum aus einer Tredezillion Atomen (10^78). Welche Bitbreite ist mindestens notwendig, um diese Zahl im Rechner zu speichern?
 
 
-#### Aufgabe: Umwandlung zwischen Zahlensystemen (Ganzzahlen)
+#### Umwandlung zwischen Zahlensystemen (Ganzzahlen)
 Vervollständigen Sie die leeren Felder:
 
 | Dezimal | Binär    | Oktal | Hexadezimal |
@@ -19,7 +23,7 @@ Vervollständigen Sie die leeren Felder:
 |         |          |       | 4AC         |
 
 
-#### Aufgabe: Umwandlung zwischen Zahlensystemen (Bruchzahlen)
+#### Umwandlung zwischen Zahlensystemen (Bruchzahlen)
 Vervollständigen Sie die leeren Felder:
 
 | Dezimal | Binär    | Oktal | Hexadezimal |
@@ -30,7 +34,8 @@ Vervollständigen Sie die leeren Felder:
 |         |          |       | AC,8        |
 
 
-#### Aufgabe: Gleitkommazahlen nach IEEE
+
+#### Gleitkommazahlen nach IEEE
 Während der Fehlersuche stoßen Sie auf das folgende Speicherabbild:
 
 `C0 98 00 00 00 00 00 00`
@@ -43,25 +48,28 @@ Welche Werte werden dargestellt, wenn Sie die Werte
 Nehmen Sie für Ihre Betrachtung an, dass die Bytes in natürlicher Reihenfolge im Speicher abgelegt sind (Big-Endian-Format).
 
 
-#### Augabe: Rechnen im Binärsystem
+#### Zweierkomplement
+Wandeln Sie die Dezimalzahl -77 in eine binäre Darstellung mit 8 Bit um. Verwenden Sie die Zweierkomplementdarstellung für die Zahl.
+
+
+#### Rechnen im Binärsystem
 Führen Sie die folgenden binären Rechenoperationen durch
 
   * `110101 + 11001 =`
-  * `111011 − 10111 =`
+  * `111011 + 11101 =`
+  * `111011 − 10111 =` (mit Zweierkomplement)
+  * `110001 − 1101101 =` (mit Zweierkomplement)
   * `11011 * 1011 =`
-  * `101000010 : 1110 =`
 
   * `101,1101 + 1110,11 =`
-  * `111011 + 11101 =`
   * `110,1001 − 101,11011 =`
-  * `110001 − 1101101 =`
 
 
-#### Aufgabe: Sinn des Zwerikomplements
+#### Sinn des Zweierkomplements
 Warum ist es sinnvoll, einen Wert im Zweierkomplement darzustellen, bzw. worin liegt der Vorteil zur Darstellung im Einerkomplement?
 
 
-#### Aufgabe: Bild codieren
+#### Bild codieren
 Überlegen Sie sich ein Schema, wie das folgende Bild in Bits umgewandelt werden kann. Versuchen Sie die Daten so kompakt wie möglich abzulegen.
 
 ![](img/mario.png)
@@ -69,5 +77,10 @@ Warum ist es sinnvoll, einen Wert im Zweierkomplement darzustellen, bzw. worin l
 Codieren Sie die erste und die letzte Zeile nach Ihrem Schema und geben Sie das Ergebnis an. Gruppieren Sie dabei die Bits in Bytes.
 
 
-#### Aufgabe: Bits in einem Byte umdrehen
-Angenommen, Sie wollen die mittleren 4 Bits eines Bytes umdrehen, wie gehen Sie am einfachsten Vor (Bitmaske und Operation)?
+#### Text codieren
+Codieren Sie den folgenden Text in ISO-8859-1, UTF-8 und UCS2.
+
+'Mögest Du viel Spaß haben!'
+
+Geben Sie das Ergebnis als Bytes in hexadezimaler Schreibweise an.
+
