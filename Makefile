@@ -1,5 +1,6 @@
 .PHONY: all
-all: 01_intro/exercise.md \
+
+ALL_EXERCISES = 01_intro/exercise.md \
 		02_information/exercise.md \
 		03_codes/exercise.md \
 		04_hardware/exercise.md \
@@ -14,21 +15,25 @@ all: 01_intro/exercise.md \
 		13_security/exercise.md \
 		14_software_engineering/exercise.md
 
+ALL_INSTRUCTIONS = 01_intro/readme.md \
+				02_information/readme.md \
+				03_codes/readme.md \
+				04_hardware/readme.md \
+				05_digital_logic/readme.md \
+				06_os/readme.md \
+				07_programming/readme.md \
+				08_automata/readme.md \
+				09_computability/readme.md \
+				10_networks/readme.md \
+				11_internet/readme.md \
+				12_data_management/readme.md \
+				13_security/readme.md \
+				14_software_engineering/readme.md
+
+all: $(ALL_EXERCISES) readme.md
+
 clean:
-	rm 01_intro/exercise.md \
-		02_information/exercise.md \
-		03_codes/exercise.md \
-		04_hardware/exercise.md \
-		05_digital_logic/exercise.md \
-		06_os/exercise.md \
-		07_programming/exercise.md \
-		08_automata/exercise.md \
-		09_computability/exercise.md \
-		10_networks/exercise.md \
-		11_internet/exercise.md \
-		12_data_management/exercise.md \
-		13_security/exercise.md \
-		14_software_engineering/exercise.md
+	rm $(ALL_EXERCISES)
 
 .PHONY: publish
 publish: all
@@ -77,3 +82,7 @@ publish: all
 
 14_software_engineering/exercise.md: 14_software_engineering/solution.md
 	./converter.rb $^ > $@
+
+readme.md: $(ALL_INSTRUCTIONS) $(ALL_EXERCISES) readme_template.md
+	cat readme_template.md > readme.md
+	./index.rb >> readme.md

@@ -1,4 +1,4 @@
-> # Automaten und formale Sprachen
+# Automaten und formale Sprachen
 
 "/[a-zA-Z0-9]+/"
 
