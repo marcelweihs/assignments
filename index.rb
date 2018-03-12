@@ -14,12 +14,12 @@ dirs.each do |d|
     end
 end
 
-puts "| # | Thema | Einführung | Aufgaben |"
-puts "|---|-------|------------|----------|"
+puts "| # | Thema | Aufgaben |"
+puts "|---|-------|----------|"
 
 
 entries.each_with_index do |e, i|
-    puts "| #{i + 1}. | #{e[1]} | [Beschreibung](#{e[0]}/readme.md) | [Aufgaben](#{e[0]}/exercise.md) |"
+    puts "| #{i + 1}. | [#{e[1]}](#{e[0]}/readme.md) | [Übungen](#{e[0]}/exercise.md) |"
 end
 
 puts "\n\n## Aufgaben\n"

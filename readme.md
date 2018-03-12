@@ -16,22 +16,22 @@
   12. 25.6
 
 ## Themenüberblick
-| # | Thema | Einführung | Aufgaben |
-|---|-------|------------|----------|
-| 1. | Einführung | [Beschreibung](01_intro/readme.md) | [Aufgaben](01_intro/exercise.md) |
-| 2. | Information | [Beschreibung](02_information/readme.md) | [Aufgaben](02_information/exercise.md) |
-| 3. | Kompression und Codierung | [Beschreibung](03_codes/readme.md) | [Aufgaben](03_codes/exercise.md) |
-| 4. | Computerhardware | [Beschreibung](04_hardware/readme.md) | [Aufgaben](04_hardware/exercise.md) |
-| 5. | Schaltnetze | [Beschreibung](05_digital_logic/readme.md) | [Aufgaben](05_digital_logic/exercise.md) |
-| 6. | Betriebssysteme | [Beschreibung](06_os/readme.md) | [Aufgaben](06_os/exercise.md) |
-| 7. | Programmierung | [Beschreibung](07_programming/readme.md) | [Aufgaben](07_programming/exercise.md) |
-| 8. | Automaten und formale Sprachen | [Beschreibung](08_automata/readme.md) | [Aufgaben](08_automata/exercise.md) |
-| 9. | Berechenbarkeit und Komplexität | [Beschreibung](09_computability/readme.md) | [Aufgaben](09_computability/exercise.md) |
-| 10. | Rechnernetze | [Beschreibung](10_networks/readme.md) | [Aufgaben](10_networks/exercise.md) |
-| 11. | WWW und Internet | [Beschreibung](11_internet/readme.md) | [Aufgaben](11_internet/exercise.md) |
-| 12. | Datenmanagement | [Beschreibung](12_data_management/readme.md) | [Aufgaben](12_data_management/exercise.md) |
-| 13. | Ethik + IT-Sicherheit | [Beschreibung](13_security/readme.md) | [Aufgaben](13_security/exercise.md) |
-| 14. | Software Engineering | [Beschreibung](14_software_engineering/readme.md) | [Aufgaben](14_software_engineering/exercise.md) |
+| # | Thema | Aufgaben |
+|---|-------|----------|
+| 1. | [Einführung](01_intro/readme.md) | [Übungen](01_intro/exercise.md) |
+| 2. | [Information](02_information/readme.md) | [Übungen](02_information/exercise.md) |
+| 3. | [Kompression und Codierung](03_codes/readme.md) | [Übungen](03_codes/exercise.md) |
+| 4. | [Computerhardware](04_hardware/readme.md) | [Übungen](04_hardware/exercise.md) |
+| 5. | [Schaltnetze](05_digital_logic/readme.md) | [Übungen](05_digital_logic/exercise.md) |
+| 6. | [Betriebssysteme](06_os/readme.md) | [Übungen](06_os/exercise.md) |
+| 7. | [Programmierung](07_programming/readme.md) | [Übungen](07_programming/exercise.md) |
+| 8. | [Automaten und formale Sprachen](08_automata/readme.md) | [Übungen](08_automata/exercise.md) |
+| 9. | [Berechenbarkeit und Komplexität](09_computability/readme.md) | [Übungen](09_computability/exercise.md) |
+| 10. | [Rechnernetze](10_networks/readme.md) | [Übungen](10_networks/exercise.md) |
+| 11. | [WWW und Internet](11_internet/readme.md) | [Übungen](11_internet/exercise.md) |
+| 12. | [Datenmanagement](12_data_management/readme.md) | [Übungen](12_data_management/exercise.md) |
+| 13. | [Ethik + IT-Sicherheit](13_security/readme.md) | [Übungen](13_security/exercise.md) |
+| 14. | [Software Engineering](14_software_engineering/readme.md) | [Übungen](14_software_engineering/exercise.md) |
 
 
 ## Aufgaben
