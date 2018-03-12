@@ -10,6 +10,7 @@ Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welch
 
 ## Themen
 
+  - Von Neumann Architektur
   - Genereller Aufbau: Zentraleinheit, Eingabe, Ausgabe
   - CPU
   - Speicher: RAM, Cache

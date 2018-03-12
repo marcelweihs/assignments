@@ -74,7 +74,7 @@ Komprimieren Sie das folgende Bild mit Hilfe des LZ77-Algorithmus. Verwenden Sie
 
 
 #### 11. GIF oder JPEG für Comics
-Warum ist das GIF-Dateiformat besser geeignet, um farbige Comics zu speichern, als JPEG?
+Warum ist das GIF-Dateiformat besser geeignet, um farbige Comics zu speichern, als JPEG? Gibt es noch ein anderes Bildformat, dass sich für Comics eignet und das möglicherweise noch besser als GIF ist?
 
 
 #### 12. Funktionsweise von MP3
