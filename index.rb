@@ -19,7 +19,7 @@ puts "|---|-------|------------|----------|"
 
 
 entries.each_with_index do |e, i|
-    puts "| #{i + 1}. | [#{e[1]}](#{e[0]}/readme.md) | [#{e[1]}](#{e[0]}/exercise.md) |"
+    puts "| #{i + 1}. | #{e[1]} | [Beschreibung](#{e[0]}/readme.md) | [Aufgaben](#{e[0]}/exercise.md) |"
 end
 
 puts "\n\n## Aufgaben\n"
