@@ -1,6 +1,6 @@
 # Übungen
 
-#### Eigenschaften eines Algorithmus
+#### 1. Eigenschaften eines Algorithmus
 Der Abzieh-Algorithmus arbeitet wie folgt:
 
   * Er startet mit einer natürlichen Zahl n > 0 als Eingabe.
@@ -23,7 +23,7 @@ Beispiel mit 6 als Eingabe und 1 als Ausgabe
 Begründen Sie jeweils kurz Ihre Antwort. Antworten wie ja oder nein reichen nicht aus!
 
 
-#### Rekursive Definition einer Funktion
+#### 2. Rekursive Definition einer Funktion
 Welche Funktion wird durch die folgende Definition realisiert?
 `f(x, y) = if y = 1 then x else f(x, y - 1) + x fi`
 
@@ -32,47 +32,47 @@ Welche Funktion wird durch die folgende Definition realisiert?
   3. Für welche Wertebereiche von x und y terminiert diese Funktion?
 
 
-#### Arten von Datentypen
+#### 3. Arten von Datentypen
 Nach welchem grundlegenden Kriterium werden Datentypen unterschieden?
 
 
-#### Array vs. Liste
+#### 4. Array vs. Liste
 Worin bestehen die praktischen Unterschiede zwischen einem Array und einer verketteten Liste?
 
 
-#### Abstrakter Datentyp
+#### 5. Abstrakter Datentyp
 Was versteht man – umgangssprachlich formuliert – unter einem abstrakten Datentypen?
 
 
-#### Typische abstrakte Datentypen
+#### 6. Typische abstrakte Datentypen
 Welche klassischen Datenstrukturen nimmt man gerne als paradigmatische Beispiele abstrakter Datentypen, und wie lässt sich umgangssprachlich deren äußeres Verhalten beschreiben?
 
 
-#### Baum
+#### 7. Baum
 Was ist ein Baum?
 
 
-#### Beispiele rekursiver Funktionen
+#### 8. Beispiele rekursiver Funktionen
 Welche einfachen Beispiele rekursiver Funktionen kennen Sie?
 
 
-#### Compilierte vs. interpretierte Sprachen
+#### 9. Compilierte vs. interpretierte Sprachen
 Es gibt Programmiersprachen, die kompiliert werden, und es gibt Programmiersprachen, die interpretiert werden. Worin besteht der Unterschied?
 
 
-#### Fehler in einem Programm
+#### 10. Fehler in einem Programm
 Sie schreiben ein Programm in einer gängigen Programmiersprache. Welche Fehlerarten können auftreten? Vergleichen Sie die Fehler in einem Programm mit Fehlern in einem Deutschaufsatz.
 
 
-#### Vor- und Nachteile höherer Programmiersprachen
+#### 11. Vor- und Nachteile höherer Programmiersprachen
 Worin besteht der Vorteil der höheren Programmiersprachen, und welche Nachteile haben sie im Vergleich zu Maschinen- oder maschinennahen Sprachen?
 
 
-#### Grund für mehrere Programmiersprachen
+#### 12. Grund für mehrere Programmiersprachen
 Warum gibt es so viele unterschiedliche Programmiersprachen und nicht eine einzige universelle ”lingua franca“?
 
 
-#### Liegt ein Algorithmus vor?
+#### 13. Liegt ein Algorithmus vor?
 Warum ist die folgende Anleitung kein Algorithmus?
 
   1. Zeichne eine Linie von (2,5) nach (6,11)
@@ -80,29 +80,29 @@ Warum ist die folgende Anleitung kein Algorithmus?
   3. Zeichne einen Kreis mit dem Mittelpunkt am Schnittpunkt der beiden Geraden und dem Radius 2
 
 
-#### Syntax vs. Semantik
+#### 14. Syntax vs. Semantik
 Was ist der Unterschied zwischen Syntax und Semantik?
 
 
-#### Plattformabhängigkeit
+#### 15. Plattformabhängigkeit
 Was bedeutet es, wenn man sagt eine Programmiersprache sei "plattformunabhängig"?
 
 
-#### Starke Typisierung
+#### 16. Starke Typisierung
 Was bedeutet es, wenn man sagt, eine Proggrammiersprache sei "stark typisiert"?
 
 
-#### Stringsuche
+#### 17. Stringsuche
 Entwerfen Sie einen Algorithmus, der ausgehend von zwei Zeichenketten (__Strings__) herausfindet, ob der erste irgendwo im zweiten auftritt.
 
 
-#### Algorithmus finden
+#### 18. Algorithmus finden
 Vier Steiger (A, B, C, D) haben nur eine Laterne uns müssen durch einen Stollen im Bergwerk. Der Stolen ist so schmal, dass nur maximal zwei Steiger gleichzeitig durch den Stollen gehen können. A braucht eine Minute, B zwei Minuten, C vier Minuten und D acht Minuten für die Strecke. Wenn zwei zusammen unterwegs sind, gehen sie mit der Geschwindigkeit des langsamere der beiden. Durch den Stollen können sie nur gehen, wenn sie die Laterne dabei haben. Wie kann man alle vier in nur 15 Minuten durch den Stollen bekommen? Wie sind Sie das Problem angegangen?
 
 
-#### C-Programm kompilieren
+#### 19. C-Programm kompilieren
 Versuchen Sie das C-Programm im Ordner [src/C](src/C) zu kompilieren und zu linken. Welche Ausgabe macht das Programm?
 
 
-#### Ruby-Programm ausführen
+#### 20. Ruby-Programm ausführen
 Im Ordner [src/Ruby](src/Ruby) finden Sie ein einfaches Ruby-Programm. Führen Sie dieses Programm aus. Welche Ausgabe macht das Programm?

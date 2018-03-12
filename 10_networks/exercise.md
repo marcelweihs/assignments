@@ -1,119 +1,119 @@
 # Übungen
 
-#### TCP-Verbindungsaufbau
+#### 1. TCP-Verbindungsaufbau
 Nennen Sie die drei Phasen eines TCP-Verbindungsaufbaus.
 
 
-#### Fehlerkorrektur in UDP
+#### 2. Fehlerkorrektur in UDP
 Mit welchem Verfahren behandelt UDP ein Fehlerauftreten? Was ist der Unterschied zwischen UDP und TCP?
 
 
-#### MAC-Adresse
+#### 3. MAC-Adresse
 Was ist eine MAC-Adresse, und wofür wird sie zusammen mit der IP- Adresse genutzt?
 
 
-#### Internet vs. Netzwerken
+#### 4. Internet vs. Netzwerken
 Was ist der Unterschied zwischen einem Netzwerk und dem Internet?
 
 
-#### Verbindungslose und verbindungsorientierte Kommunikation
+#### 5. Verbindungslose und verbindungsorientierte Kommunikation
 Erläutern Sie die Begriffe verbindungslose Kommunikation und ver-
 bindungsorientierte Kommunikation.
 
 
-#### Schichten des OSI-Modells
+#### 6. Schichten des OSI-Modells
 Benennen Sie die Schichten des OSI-Modells. Skizzieren Sie die Kommu- nikation.
 
 
-#### OSI-Modell vs. Internet
+#### 7. OSI-Modell vs. Internet
 Stellen Sie die Schichten des OSI-Modell denen der Internet-Architektur gegenüber.
 
 
-#### Protokoll
+#### 8. Protokoll
 Was ist ein Protokoll? Nennen Sie mindestens vier Protokolle und deren Aufgabe.
 
 
-#### CSMA/CD im WLAN
+#### 9. CSMA/CD im WLAN
 Warum kann man das CSMA/CD-Protokoll nicht in einem WLAN verwenden?
 
 
-#### CSMA/CD
+#### 10. CSMA/CD
 Beschreiben Sie die Schritte, die ein Computer ausführen muss, um eine Nachricht mit dem CSMA/CD-Protokoll zu versenden.
 
 
-#### Hidden-Station-Problem
+#### 11. Hidden-Station-Problem
 Was ist das Hidden-Station-Problem?
 
 
-#### Internet vs. Netzwerken
+#### 12. Internet vs. Netzwerken
 Was ist der Unterschied zwischen einem Netzwerk und dem Internet?
 
 
-#### IPv6 Adressraum
+#### 13. IPv6 Adressraum
 IPv4 benutzt 32-Bit-Adressen, die inzwischen nicht mehr ausreichen, um alle Geräte im Internet zu adressieren. IPv6 setzt 128-Bit-Adressen ein. Ist dies diesmal ausreichend oder wird es in der Zukunft wieder zu Knappheit der Adressen kommen? Begründen Sie Ihre Antwort.
 
 
-#### Transportschicht
+#### 14. Transportschicht
 Warum zerlegt die Transportschicht große Nachrichten in kleinere Pakete?
 
 
-#### UDP
+#### 15. UDP
 Was bedeutet die Aussage, dass UDP ein verbindungsloses Protokoll ist?
 
 
-#### ARP
+#### 16. ARP
 Um ein IP-Paket zustellen zu können, muss der Router die IP-Adresse zu der MAC-Adresse des Ziel-Hosts auflösen. Hierzu wird das __Address Resolution Protocol (ARP)__ verwendet. Beschreiben Sie bitte grob, wie eine solche Auflösung abläuft.
 
 
-#### Aufgabe; Bridge
+#### 17. Aufgabe; Bridge
 Erläutern Sie bitte kurz was ein __Bridge__ ist und auf welchen OSI-Ebenen er agiert.
 
 
-#### Unicast vs. Broadcast vs. Multicast
+#### 18. Unicast vs. Broadcast vs. Multicast
 Man unterscheidet im Rahmen von Netzwerken zwischen __Unicast__, __Broadcast__ und __Multicast__. Bitte erläutern Sie was diese Begriffe bezeichnen und worin die Unterschiede bestehen.
 
 
-#### DHCP
+#### 19. DHCP
 Ein wichtiges Protokoll im Rahmen des Internet Protocols ist __DHCP__. Beschreiben Sie bitte kurz, um was es sich bei DHCP handelt und wie das Protokoll funktioniert.
 
 
-#### Hub oder Switch
+#### 20. Hub oder Switch
 Wenn Sie die Wahl hätten, einen Hub oder einen Switch einzusetzen, welche Komponente würden Sie (unter der Annahme gleicher Kosten) einsetzen? Begründen Sie Ihre Antwort kurz.
 
 
-#### IP
+#### 21. IP
 Ein wichtiges Protokoll des Internets ist das __Internet Protocol (IP)__. Beschreiben Sie bitte, welchen Zweck IP hat und auf welchem OSI-Level es einzuordnen ist.
 
 
-#### IPv4
+#### 22. IPv4
 Die heute noch am häufigsten verwendete Variante des __Internet Protocols__ ist die __Version 4 (IPv4)__. Beschreiben Sie bitten den Aufbau einer Adresse im IPv4-Protokoll.
 
 
-#### Netzmaske
+#### 23. Netzmaske
 Im Rahmen des Internet Protocols Version 4 (IPv4) taucht immer wieder die sogenannte __Netzmaske__ auf. Beschreiben Sie bitten welchem Zweck die Netzmaske dient, wie sie aufgebaut ist und wie man sie notieren kann.
 
 
-#### Netzmaske berchnen
+#### 24. Netzmaske berchnen
 Gegeben sei ein IPv4-Netz mit einer /12-Netzmaske. Bestimmen Sie bitte für die IP-Adresse 173.194.69.102 die Netz-Adresse.
 
 
-#### Aufgaber: Leitungs- vs. Paketvermittlung
+#### 25. Aufgaber: Leitungs- vs. Paketvermittlung
 Erläutern Sie bitte kurz den Unterschied zwischen einem __leitungsvermittelten__ und einem __paktevermittelten__ Netz. Geben Sie bitte jeweils ein Beispiel für ein solches Netz.
 
 
-#### 127.0.0.1
+#### 26. 127.0.0.1
 Eine besondere IPv4-Adresse ist __127.0.0.1__. Erläutern Sie bitte kurz, welche Bedeutung diese Adresse hat.
 
 
-#### MAC-Adresse und Routing
+#### 27. MAC-Adresse und Routing
 Warum kann man MAC-Adressen in der Praxis nicht zum Routing verwenden?
 
 
-#### NAT
+#### 28. NAT
 Bei IPv4-Netzen kommt häufig die sogenannte __Network Address Translation (NAT)__ zum Einsatz. Erläutern Sie bitte kurz, welches Ziel NAT verfolgt und wie es grob funktioniert.
 
 
-#### OSI-Referentmodell
+#### 29. OSI-Referentmodell
 Das __OSI-Referenz-Modell__ definiert sieben Schichten: Bitübertragung, Sicherung, Vermittlung, Transport, Sitzung, Darstellung und Anwendung.
 
 Erläutern Sie bitte kurz,
@@ -127,42 +127,42 @@ Erläutern Sie bitte kurz,
   - welchem Zweck die __Anwendungsschicht__ (application layer) dient.
 
 
-#### Dynamisches Routing
+#### 30. Dynamisches Routing
 Erläutern Sie bitte kurz, warum ein paktvermitteltes Netz eine Grundvoraussetzung für das dynamische Routing von Daten im Netzwerk ist.
 
 
-#### Bridge
+#### 31. Bridge
 Erläutern Sie bitte kurz was ein __Bridge__ ist und auf welchen OSI-Ebenen er agiert.
 
 
-#### Router
+#### 32. Router
 Beschreiben Sie bitte kurz, welche Aufgabe ein __Router__ hat.
 
 
-#### Routing
+#### 33. Routing
 Eine wichtige Eigenschaft des Internets ist das sogenannte __Routing__. Erläutern Sie bitte kurz, was sich hinter dem Begriff Routing verbirgt.
 
 
-#### Switch
+#### 34. Switch
 Erläutern Sie bitte kurz was ein __Switch__ ist und auf welchen OSI-Ebenen er agiert.
 
 
-#### Ports
+#### 35. Ports
 Sowohl TCP als auch UDP verwenden sogenannte __Ports__. Erläutern Sie bitte, welchem Zweck die Ports bei TCP und UDP dienen.
 
 
-#### TCP vs, UDP
+#### 36. TCP vs, UDP
 Vergleiche Sie bitte die Protokolle __TCP__ und __UDP__ miteinander.
 
 
-#### Verbindung in TCP
+#### 37. Verbindung in TCP
 Das __Transmission Control Protocol (TCP)__ ist verbindungsorientiert und zuverlässig. Erläutern Sie bitte, wie es TCP gelingt eine Verbindung und die Zuverlässigkeit der Kommunikation auf Grundlage des paketvermittelten IP-Protokolls zu realisieren.
 
 
-#### TCP und OSI
+#### 38. TCP und OSI
 Das __Transmission Control Protocol (TCP)__ gehört zu den im Internet am häufigsten eingesetzten Protokollen. Erläutern Sie bitte kurz, welche Eigenschaften TCP hat und auf welcher OSI-Schicht es einzuordnen ist.
 
 
-#### UDP
+#### 39. UDP
 Das __User Datagram Protocol (UDP)__ gehört zu den im Internet eingesetzten Protokollen. Erläutern Sie bitte kurz, welche Eigenschaften UDP hat und auf welcher OSI-Schicht es einzuordnen ist.
 

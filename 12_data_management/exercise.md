@@ -1,14 +1,14 @@
 # Übungen
 
-#### Datenbankmodell
+#### 1. Datenbankmodell
 Welchen Zweck hat ein Datenbankmodell?
 
 
-#### DBMS vs. Anwendung
+#### 2. DBMS vs. Anwendung
 Fassen Sie die Aufgaben einer Anwendungssoftware und eines Datenbanksystems zusammen.
 
 
-#### Relationen lesen
+#### 3. Relationen lesen
 Beantworten Sie die folgenden Fragen basierend auf der unten dargestellten Datenbankrelation:
 
   1. Wer ist der Sekretär in der Buchhaltung (Accounting) mit Erfahrungen in der Personalabteilung (Personnel)?
@@ -40,7 +40,7 @@ _ASSIGNMENT_
 | 23Y34  | S26Z       | 2010-05-01 | -          |
 
 
-#### Relationen auswerten
+#### 4. Relationen auswerten
 Basierend auf den in der vorhergehenden Aufgabe angegebenen Tabellen:
 
   * Wie kann man die Liste aller Job-Bezeichnungen in der Personalabteilung finden?
@@ -49,27 +49,27 @@ Basierend auf den in der vorhergehenden Aufgabe angegebenen Tabellen:
 Übertragen Sie Ihre Antworten in einem zweiten Schritt in SQL-Statements.
 
 
-#### Beziehungen zwischen Tabellen
+#### 5. Beziehungen zwischen Tabellen
 Wie werden die verschiedenen Beziehungen in einer Datenbank dargestellt=
 
 
-#### Transaktion
+#### 6. Transaktion
 Was versteht man unter einer Datenbanktransaktion?
 
 
-#### Datei vs. Datenbank
+#### 7. Datei vs. Datenbank
 Welche Vorteile hat eine Datenbank gegenüber einer Datei?
 
 
-#### Vorteile eines DBMS
+#### 8. Vorteile eines DBMS
 Welche Vorteile bringt es einer Anwendung, die Datenhaltung in einem getrennten Datenbanksystem durchzuführen?
 
 
-#### Datenbank entwerfen
+#### 9. Datenbank entwerfen
 Entwerfen Sie ein Datenbankschema für die Speicherung von Komponisten, ihren Kompositionen und den Lebensdaten der Komponsiten.
 
 
-#### Datenbank entwerfen -- komplex
+#### 10. Datenbank entwerfen -- komplex
 Entwerfen Sie ein Datenbankschema für die Verwaltung von Teilen, Lieferanten und Kunden
 
   * Jedes Teil kann von mehreren Lieferanten bezogen werden
@@ -79,6 +79,6 @@ Entwerfen Sie ein Datenbankschema für die Verwaltung von Teilen, Lieferanten un
   * Jeder Kunde kann dasselbe Teil von unterschiedlichen Lieferanten beziehen
 
 
-#### Transaktionen
+#### 11. Transaktionen
 Warum ist es wichtig bei Transaktionen zwischen exklusiven und gemeinsamen Zugriff auf Daten in der Datenbank zu unterscheiden?
 

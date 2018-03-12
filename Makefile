@@ -30,6 +30,12 @@ clean:
 		13_security/exercise.md \
 		14_software_engineering/exercise.md
 
+.PHONY: publish
+publish:
+	git add .
+	git commit -m "Update of exercises"
+	git push cogs master
+
 01_intro/exercise.md: 01_intro/solution.md
 	./converter.rb $^ > $@
 
