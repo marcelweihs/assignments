@@ -14,17 +14,18 @@ dirs.each do |d|
     end
 end
 
-puts "| # | Thema | Aufgaben |"
-puts "|---|-------|----------|"
+# Read schedule
+dates = [ ]
+File.open('termine.txt').each do |line|
+    dates << line.chop
+end
+
+puts "| # | Datum | Thema | Übungen |"
+puts "|---|-------|-------|----------|"
 
 
 entries.each_with_index do |e, i|
-    puts "| #{i + 1}. | [#{e[1]}](#{e[0]}/readme.md) | [Übungen](#{e[0]}/exercise.md) |"
+    puts "| #{i + 1}. | #{dates[i]} | [#{e[1]}](#{e[0]}/readme.md) | [Übungen](#{e[0]}/exercise.md) |"
 end
 
-puts "\n\n## Aufgaben\n"
 puts ""
-
-entries.each_with_index do |e, i|
-    puts "  #{i + 1}. [#{e[1]}](#{e[0]}/exercise.md)"
-end
