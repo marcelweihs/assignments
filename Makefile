@@ -31,7 +31,7 @@ clean:
 		14_software_engineering/exercise.md
 
 .PHONY: publish
-publish:
+publish: all
 	git add .
 	git commit -m "Update of exercises"
 	git push cogs master

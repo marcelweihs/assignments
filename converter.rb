@@ -1,11 +1,12 @@
 #!/usr/bin/env ruby
 status = :undefined
 
-puts '# Übungen'
 counter = 1
 
 File.open(ARGV[0]).each do |line|
-    if /^#### (.*)/ === line
+    if /^# (.*)/ === line
+        puts line
+    elsif /^#### (.*)/ === line
         status = :exercise
         title = $1
         puts "\n#### #{counter}. #{title}"

@@ -1,4 +1,4 @@
-# Übungen
+# Übungen: Codes
 
 #### 1. Morse-Alphabet
 Warum werden beim Morse-Alphabet manche Buchstaben mit kurzen und manche mit langen Folgen der Zeichen `.` und `−` dargestellt? Handelt es sich beim Morse-Alphabet um eine binäre Codierung?
