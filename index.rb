@@ -20,4 +20,9 @@ entries.each_with_index do |e, i|
     puts "  #{i + 1}. [#{e[1]}](#{e[0]}/readme.md)"
 end
 
+puts '# Aufgaben'
 puts ""
+
+entries.each_with_index do |e, i|
+    puts "  #{i + 1}. [#{e[1]}](#{e[0]}/exercise.md)"
+end
