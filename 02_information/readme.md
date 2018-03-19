@@ -64,7 +64,7 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
   * Video: [TheSimpleInformatics: Darstellung ganzer Zahlen - Arithmetik in Computern 2](https://youtu.be/XG-rVDpm9A4)
   * Video: [TheSimpleInformatics: Grundbegriffe Datendarstellung - Daten- und Zeichendarstellung 1](https://youtu.be/szmRgTgztJo)
   * Video: [TheSimpleInformatics: p-adische Zahlendarstellung - Daten- und Zeichendarstellung 2](https://youtu.be/WzqlPXslQL8)
-  *
+
 ## Übung
 
 Bitte bearbeiten Sie die [Übung](exercise.md) zu diesem Kapitel.
