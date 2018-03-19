@@ -84,3 +84,15 @@ Codieren Sie den folgenden Text in ISO-8859-1, UTF-8 und UCS2.
 
 Geben Sie das Ergebnis als Bytes in hexadezimaler Schreibweise an.
 
+
+#### 12. Sampling-Rate
+Warum haben CDs eine Abtastrate von 44,1 kHz?
+
+
+#### 13. Datenmenge einer CD
+Eine CD zeichnet Audiosignale mit 16 Bit bei 44,1 kHz Abtastrate unkomprimiert auf. Wie groß wird eine Stereo-CD mit 70 Minuten Laufzeit ungefähr?
+
+
+#### 14. Umrechnung von Speicherkapazitäten
+Eine Festplatte ist mit einer Speicherkapazität von 4 TB angegeben. Wieviele Bytes können Sie darauf speichern?
+

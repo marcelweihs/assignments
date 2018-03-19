@@ -23,10 +23,12 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
   - Speicherung von Zahlen im Computer
   - Überlauf
   - Rechnen im Dualsystem
+  - Zweierkomplement
   - Reelle Zahlen im Computer
   - Darstellung von Text (ASCII vs. Unicode)
   - Maßeinheiten für Datenmengen
   - Speicherung von Bildern und Tönen im Computer
+  - Nyquist-Shannon-Abtasttheorem
 
 ## Begriffe
 
@@ -38,13 +40,14 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
   - Halfbyte (Nibble), Byte, Wort, Doppelwort
   - Mantisse, Exponent
   - Oktalsystem
-  - Rundungsfehlern
+  - Rundungsfehler
   - Stellenwertsysteme
   - Überlauf
   - ASCII, Unicode, ISO-8859-1
   - A/D-Wandlung
   - Pixel
   - Abtastrate
+  - Zweierkomplement
 
 ## Quellen
 

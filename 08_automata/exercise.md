@@ -15,7 +15,7 @@ Was ist der Unterschied zwischen einer Objektsprache und einer Meta- sprache?
 
 
 #### 4. Regulären Ausdruck deuten
-Beschreiben Sie die Bedeutung des folgenden regulären Ausdrucks in ei- genen Worten: `(0*1*)*000(0|1)*`.
+Beschreiben Sie die Bedeutung des folgenden regulären Ausdrucks in eigenen Worten: `(0*1*)*000(0|1)*`.
 
 
 #### 5. Endliche Automaten

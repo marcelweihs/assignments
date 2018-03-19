@@ -15,7 +15,7 @@ Sie haben sich für ein Studium der Informatik entschieden und sitzen an Ihrem e
   - Erstellen Sie eine Übersicht über die Entwicklung des Computers ab 1930 und gehen Sie auf die verschiedenen Generationen der Computer ein
   - Definieren Sie den Begriff __Algorithmus__
   - Finden Sie heraus, um was es sich bei __Moore's Law__ handelt
-  - Stellen Sie eine Liste der für die Geschichte der Informatik wichtigen Personen zusammen wichtigen
+  - Stellen Sie eine Liste der für die Geschichte der Informatik wichtigen Personen zusammen
   - Finden Sie heraus, welches das erste Computerspiel war
   - Erstellen Sie einen Vergleich der Rechengeschwindigkeit von Computern in den 60er, 70er, 80er, 90er, 2000er Jahren und heute
   - Zeigen Sie, wie stark wir heute von Computern bzw. Informationstechnik abhängen. Geben Sie mindestens drei Beispiele für solche Abhängigkeiten.
@@ -24,7 +24,7 @@ Sie haben sich für ein Studium der Informatik entschieden und sitzen an Ihrem e
 
   - Geschichte der Informatik
   - Historische Entwicklung des Computers
-  - Wichtige Personen
+  - Wichtige Personen in der Informatik
   - Einsatzgebiete von Computern
   - Gebiete der Informatik
   - Bedeutung der Informatik in unserem Alltag
@@ -43,7 +43,6 @@ Sie haben sich für ein Studium der Informatik entschieden und sitzen an Ihrem e
     - Theoretische Informatik
     - Praktische Informatik
     - Technische Informatik
-  - Computer Science
 
 ## Quellen
 
