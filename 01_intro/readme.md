@@ -48,6 +48,7 @@ Sie haben sich für ein Studium der Informatik entschieden und sitzen an Ihrem e
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 25--45
   * [Wikipedia](http://de.wikipedia.org)
+  * [Early Computing: Crash Course Computer Science](https://youtu.be/O5nskjZ_GoI)
 
 ## Übung
 

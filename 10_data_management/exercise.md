@@ -1,5 +1,6 @@
 # Übungen: Datenmanagement
 
+
 #### 1. Datenbankmodell
 Welchen Zweck hat ein Datenbankmodell?
 

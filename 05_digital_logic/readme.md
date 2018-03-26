@@ -49,6 +49,7 @@ Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welc
   * Video: [TheSimpleInformatics: Decoder - Logische Bausteine & Schaltnetz 2](https://youtu.be/Qo_0PGusJfU)
   * Video: [TheSimpleInformatics: Encoder - Logische Bausteine & Schaltnetz 3](https://youtu.be/jVvgFSWeuKE)
   * Video: [TheSimpleInformatics: Schaltungen und Schaltnetze kreieren - Logische Bausteine & Schaltnetze 4](https://youtu.be/N1CxwUqZNGA)
+  * Video: [Boolean Logic & Logic Gates: Crash Course Computer Science ](https://youtu.be/gI-qXk7XojA)
 
 ## Übung
 

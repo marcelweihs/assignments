@@ -1,5 +1,6 @@
 # Übungen: Internet
 
+
 #### 1. C/S-Modell vs. P2P
 Vergleichen Sie Client/Server-Modell mit dem Peer-to-Peer-Modell
 
@@ -17,11 +18,11 @@ Welche Aufgabe hat ein Mail-Server?
 
 
 #### 5. HTML-Struktur
-Öffnen Sie eine Webseite und schauen Sie sich den Quelltext der HTML-Datei an. Welche grundlegende Strukur können Sie erkennen?
+Öffnen Sie eine Webseite und schauen Sie sich den Quelltext der HTML-Datei an. Welche grundlegende Struktur können Sie erkennen?
 
 
 #### 6. HTML-Tags
-Nennnen Sie fünf HTML-Tags und deren Bedeutung.
+Nennen Sie fünf HTML-Tags und deren Bedeutung.
 
 
 #### 7. XML-Struktur

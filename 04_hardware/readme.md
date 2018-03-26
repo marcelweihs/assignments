@@ -39,6 +39,7 @@ Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welch
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 91--134
   * Video: [How Computers Calculate - the ALU: Crash Course Computer Science #5](https://youtu.be/1I5ZMmrOfnA)
   * Video: [Registers and RAM: Crash Course Computer Science #6](https://youtu.be/fpnE6UAfbtU)
+  * Video: [The Central Processing Unit (CPU): Crash Course Computer Science #7](https://youtu.be/FZGugFqdr60)
   * Video: [Instructions & Programs: Crash Course Computer Science #8](https://youtu.be/zltgXvg6r3k)
   * Video: [Memory & Storage: Crash Course Computer Science #19](https://youtu.be/TQCr9RV7twk)
   * Video: [TheSimpleInformatics: Komponenten eines Computers 1](https://youtu.be/59dYVTNjWG4)

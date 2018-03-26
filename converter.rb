@@ -6,6 +6,7 @@ counter = 1
 File.open(ARGV[0]).each do |line|
     if /^# (.*)/ === line
         puts line
+        status = :frontmatter
     elsif /^#### (.*)/ === line
         status = :exercise
         title = $1
@@ -13,7 +14,11 @@ File.open(ARGV[0]).each do |line|
         counter = counter + 1
     elsif /^---/ =~ line && status == :exercise
         status = :undefined
-    elsif status == :exercise
+    elsif /^<!-- Spacing: ([0-9]*) -->/ =~ line
+        puts '<div style="border: 1px solid grey;">'
+        $1.to_i.times { puts '<br>' }
+        puts '</div>'
+    elsif status == :exercise || status == :frontmatter
         puts line
     end
 end

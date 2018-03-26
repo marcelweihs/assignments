@@ -1,8 +1,8 @@
 # Übungen: Hardware
 
+
 #### 1. Von Neumann-Architektur
-Zeigen Sie mit einem
-Geben Sie das Schaubild die fünf Funktionseinheiten der von Neumann-Architektur eines Rechners.
+Zeigen Sie mit einem Schaubild die fünf Funktionseinheiten der von Neumann-Architektur eines Rechners.
 
 
 #### 2. PC konfigurieren
@@ -60,5 +60,5 @@ senden?
 
 
 #### 14. Datenrate einer Tatstatur
-Wi viele Bits pro Sekunde muss eine Tastatur übertragen, um mit einem Nutzer mitzuhalten, der 40 Worte pro Minute tippt?
+Wie viele Bits pro Sekunde muss eine Tastatur übertragen, um mit einem Nutzer mitzuhalten, der 40 Worte pro Minute tippt?
 

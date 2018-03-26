@@ -1,5 +1,6 @@
 # Übungen: Digitale Logik
 
+
 #### 1. Beweis De Morgansche Gesetz
 Beweisen Sie mit Hilfe einer Wahrheitstabelle das De Morgansche Gesetz:
 `!(P | Q) = !P & !Q`
