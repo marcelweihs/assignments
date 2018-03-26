@@ -15,5 +15,4 @@
 | 10. | 11.6 | [Datenmanagement](10_data_management/readme.md) | [Übungen](10_data_management/exercise.md) |
 | 11. | 18.6 | [Ethik + IT-Sicherheit](11_security/readme.md) | [Übungen](11_security/exercise.md) |
 | 12. | 25.6 | [Software Engineering](12_software_engineering/readme.md) | [Übungen](12_software_engineering/exercise.md) |
-| 13. |  | [Programmierung](99_programming/readme.md) | [Übungen](99_programming/exercise.md) |
 
