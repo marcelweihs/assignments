@@ -1,5 +1,6 @@
 # Übungen: Information
 
+
 #### 1. Das Bit
 Wie viele Zustände lassen sich mit einem Bit darstellen
 

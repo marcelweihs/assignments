@@ -4,11 +4,18 @@
 
 Sie haben so viel gelernt über die Darstellung von Daten im Computer, dass Sie vor lauter Stolz eine kleine Zusammenfassung geschrieben haben. Ein Studienkollege von Ihnen möchte diese auch haben und Sie wollen sie ihm per E-Mail schicken. Aber das Dokument ist zu groß. Sie schicken Ihrem Freund eine WhatsApp "Ist zu groß, passt nicht in die E-Mail" und er antwortet Ihnen "dann musst du es zippen". Was bitte bedeutet "zippen"? Sie kennen nur "zipper" aus einem Schüleraustausch in England aber die Details sind peinlich. Zum Glück kennt sich ein andere Kommilitone damit aus und "zippt" Ihre Datei. Prompt schrumpft Sie von 5 MB auf 1 MB und lässt sich jetzt problemlos versenden.
 
-## Aufgabe
+## Recherche
 
   - Recherchieren Sie Informationen zu Fehlertoleranten Codes und dem Hamming-Abstand
   - Schauen Sie sich verschiedene Verfahren zur Fehlererkennung und -Korrektur an
-  - Informieren Sie sich über Kompressionsverfahren, insbesondere RLE, Huffmann-Kodierung und LZ77
+    - Parity Bit
+    - CRC
+  - Informieren Sie sich über Kompressionsverfahren, insbesondere
+    - RLE
+    - Huffmann-Kodierung
+    - LZ77
+    - LZW
+    - MP3
 
 ## Themen
 
@@ -33,7 +40,7 @@ Sie haben so viel gelernt über die Darstellung von Daten im Computer, dass Sie 
   - Huffman-Kodierung
   - Lempel-Ziv-Kodierungen
   - Parity-Bit
-  - Run Lenght Encoding
+  - Run Lenght Encoding (RLE)
   - Shannon-Fano-Kodierung
   - Kompression: Verlustbehaftete, verlustfrei
   - Wörterbuch
@@ -42,6 +49,11 @@ Sie haben so viel gelernt über die Darstellung von Daten im Computer, dass Sie 
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 749--798
+  * Wikipedia: [ASCII](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange)
+  * Wikipedia: [Morsezeichen](https://de.wikipedia.org/wiki/Morsezeichen)
+  * Wikipedia: [Fano-Bedingung](https://de.wikipedia.org/wiki/Fano-Bedingung)
+  * Wikipedia: [Hamming-Abstand](https://de.wikipedia.org/wiki/Hamming-Abstand)
+  * Wikipedia: [CRC](https://de.wikipedia.org/wiki/Zyklische_Redundanzprüfung)
   * Video: [Compression: Crash Course Computer Science #21](https://youtu.be/OtDxDvCpPL4)
   * Video: [Bleeptrack: Huffmancode](https://youtu.be/9crj8ISweLE)
   * Video: [Bleeptrack: Hammingcode](https://youtu.be/sANR9nA-8rA)
