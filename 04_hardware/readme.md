@@ -2,9 +2,9 @@
 
 > "Meine nächste Rig wird richtig schnell!"
 
-Sie bekommen eine WhatsApp von einer guten Freundin: "Hi, brauche neuen PC. Du studierst doch Informatik - kannst Du mir helfen? LG Anna". Gut eigentlich wollten Sie heute für Mathematik lernen aber einer Freundin helfen Sie natürlich gerne und Mathematik kann warten. Sie treffen sich mit Anna im Café Turing. Leider stellen Sie schon nach ein paar Minuten fest, dass sie nicht genau weiß, wie ein PC aufgebaut ist und Ihre Frage "Willst Du eher Ryzen oder i7" nicht versteht. Also entschließen Sie sich, ganz vorne anzufangen. Sie bestellen noch einen großen Latte Machiato und fangen an, die Architektur und Komponenten von Computern zu erklären.
+Sie bekommen eine WhatsApp von einer guten Freundin: "Hi, brauche neuen PC. Du studierst doch Informatik - kannst Du mir helfen? LG Anna". Gut eigentlich wollten Sie heute für Mathematik lernen aber einer Freundin helfen Sie natürlich gerne und Mathematik kann warten. Sie treffen sich mit Anna im Café Turing. Leider stellen Sie schon nach ein paar Minuten fest, dass sie nicht genau weiß, wie ein PC aufgebaut ist und Ihre Frage "Willst Du eher Ryzen oder i7" nicht versteht. Also entschließen Sie sich, ganz vorne anzufangen. Sie bestellen noch einen großen Latte Macchiato und fangen an, die Architektur und Komponenten von Computern zu erklären.
 
-## Aufgabe
+## Recherche
 
 Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welchen Komponenten sie bestehen. Denken Sie auch an einen kurzen Blick auf die Geschichte und verschiedene Architekturen. Wie arbeiten die Komponenten und welche Leistungsmerkmale haben sie?
 
@@ -12,7 +12,7 @@ Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welch
 
   - Von Neumann Architektur
   - Genereller Aufbau: Zentraleinheit, Eingabe, Ausgabe
-  - CPU
+  - CPU: ALU, Register, Steuerwerk
   - Speicher: RAM, Cache
   - Peripherie: Massenspeicher
 
@@ -37,6 +37,9 @@ Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welch
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 91--134
+
+Videos Englisch
+
   * Video: [How Computers Calculate - the ALU: Crash Course Computer Science #5](https://youtu.be/1I5ZMmrOfnA)
   * Video: [Registers and RAM: Crash Course Computer Science #6](https://youtu.be/fpnE6UAfbtU)
   * Video: [The Central Processing Unit (CPU): Crash Course Computer Science #7](https://youtu.be/FZGugFqdr60)
@@ -46,6 +49,9 @@ Sammeln Sie Informationen, wie Computer prinzipiell aufgebaut sind und aus welch
   * Video: [TheSimpleInformatics: Der Prozessor - Komponenten eines Computers 2](https://youtu.be/YgdbUHUETBA)
   * Video: [TheSimpleInformatics: Der Speicher - Komponenten eines Computers 3](https://youtu.be/gA_F0id3zAc)
   * Video: [TheSimpleInformatics: Busse - Komponenten eines Computers 4](https://youtu.be/yOWP506ZqK4)
+
+Videos Deutsch
+
   * Video: [brainfaqk: Wie funktioniert ein Mainboard? #2](https://youtu.be/JnMAqsPbV_w)
   * Video: [brainfaqk: Wie funktioniert ein Prozessor? #3](https://youtu.be/sFqaCHZGkHI)
   * Video: [brainfaqk: Wie funktioniert eine Grafikkarte? #4](https://youtu.be/g88c13KyK9Q)
