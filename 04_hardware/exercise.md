@@ -70,6 +70,6 @@ HD-Video hat eine Auflösung von 1920x1080 Pixel bei 30 Frames pro Sekunde mit 2
 senden?
 
 
-#### 16. Datenrate einer Tatstatur
+#### 16. Datenrate einer Tastatur
 Wie viele Bits pro Sekunde muss eine Tastatur übertragen, um mit einem Nutzer mitzuhalten, der 40 Worte pro Minute tippt?
 

@@ -45,13 +45,13 @@ Videos Englisch
   * Video: [The Central Processing Unit (CPU): Crash Course Computer Science #7](https://youtu.be/FZGugFqdr60)
   * Video: [Instructions & Programs: Crash Course Computer Science #8](https://youtu.be/zltgXvg6r3k)
   * Video: [Memory & Storage: Crash Course Computer Science #19](https://youtu.be/TQCr9RV7twk)
+
+Videos Deutsch
+
   * Video: [TheSimpleInformatics: Komponenten eines Computers 1](https://youtu.be/59dYVTNjWG4)
   * Video: [TheSimpleInformatics: Der Prozessor - Komponenten eines Computers 2](https://youtu.be/YgdbUHUETBA)
   * Video: [TheSimpleInformatics: Der Speicher - Komponenten eines Computers 3](https://youtu.be/gA_F0id3zAc)
   * Video: [TheSimpleInformatics: Busse - Komponenten eines Computers 4](https://youtu.be/yOWP506ZqK4)
-
-Videos Deutsch
-
   * Video: [brainfaqk: Wie funktioniert ein Mainboard? #2](https://youtu.be/JnMAqsPbV_w)
   * Video: [brainfaqk: Wie funktioniert ein Prozessor? #3](https://youtu.be/sFqaCHZGkHI)
   * Video: [brainfaqk: Wie funktioniert eine Grafikkarte? #4](https://youtu.be/g88c13KyK9Q)

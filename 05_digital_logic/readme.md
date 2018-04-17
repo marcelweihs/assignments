@@ -4,9 +4,9 @@
 
 Als Sie die wichtigsten Komponenten eines Computers im Café Turing erläutern, merken Sie, dass Sie an einigen Stellen selbst nicht ganz sattelfest sind. Insbesondere die Antwort auf die Frage, wie denn der Computer überhaupt rechnen und "denken" kann fällt Ihnen schwer. Als angehender Informatiker wollen Sie sich keine Blöße geben und gehen kurz auf die Toilette, um die Antworten hierauf im Internet zu finden. Denn was wäre schlimmer als ein Informatik-Student, der diese Sachen nicht weiß.
 
-## Aufgabe
+## Recherche
 
-Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welchen Prinzipien ein "Elektronengehirn" aufbaut. Wie kann es überhaupt funktionieren, mit Strom zu rechnen und in begrenzttem Umfang auch zu "denken"?
+Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welchen Prinzipien ein "Elektronengehirn" aufbaut. Wie kann es überhaupt funktionieren, mit Strom zu rechnen und in begrenztem Umfang auch zu "denken"?
 
 ## Themen
 
@@ -17,11 +17,13 @@ Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welc
 
 ## Begriffe
 
-  - Absorptionsgesetz
   - Ampere, Volt, Ohm, Watt
+  - Parallel- und Reihenschaltung
+  - Ohmsches Gesetz
+  - Diode
+  - Absorptionsgesetz
   - Aussage
   - Gesetze: Assoziativgesetz, De Morgansche Gesetz, Distributivgesetz, Idempotenzgesetz, Kommutativgesetz
-  - Diode
   - Disjunktion
   - Halb-Addierer
   - Implikation
@@ -29,8 +31,6 @@ Finden Sie heraus, mit welcher Technik ein Computer intern arbeitet und auf welc
   - Ladungsträger
   - Logikgatter
   - Maxterme, Minterme
-  - Ohmsches Gesetz
-  - Parallel- und Reihenschaltung
   - Wahrheitstafel
 
 ## Quellen

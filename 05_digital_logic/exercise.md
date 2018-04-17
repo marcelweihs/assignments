@@ -1,5 +1,11 @@
 # Übungen: Digitale Logik
 
+Hinweis: Die Aufgaben verwenden der Einfachheit halber die Symbole aus Java für die Darstellung der
+
+  * _Konjunktion_ (AND): `&`,
+  * _Disjunktion_ (OR): `|` und
+  * _Negation_ (NOT): `!`
+
 
 #### 1. Beweis De Morgansche Gesetz
 Beweisen Sie mit Hilfe einer Wahrheitstabelle das De Morgansche Gesetz:
@@ -7,7 +13,7 @@ Beweisen Sie mit Hilfe einer Wahrheitstabelle das De Morgansche Gesetz:
 
 
 #### 2. Ausdruck in Wahrheitstabelle darstellen
-Stellen Sie eine Wahrheitstabelle für folgenden Ausdruck auf (P und Q sind Aussagen, die Wahr T oder Falsch F sein können): `(P & Q) | (!P & !Q)`
+Stellen Sie eine Wahrheitstabelle für folgenden Ausdruck auf (P und Q sind Aussagen, die Wahr `T` oder Falsch `F` sein können): `(P & Q) | (!P & !Q)`
 
 
 #### 3. Ausdruck umformen
@@ -15,13 +21,13 @@ Vereinfachen Sie durch elementare Umformungen den folgenden Ausdruck: `(A | B) &
 
 
 #### 4. Darstellung von Verknüpfungen durch andere
-Stellen Sie die zweistelligen logischen Verknüpfungen Implikation, NOR, NAND, Äquivalenz und XOR unter ausschließlicher Verwendung von Konjunktion, Disjunktion und Negation dar.
+Stellen Sie die zweistelligen logischen Verknüpfungen Implikation, NOR, NAND, Äquivalenz und XOR unter ausschließlicher Verwendung von Konjunktion (AND, `&`), Disjunktion (OR, `|`) und Negation (NOT, `!`) dar.
 
 
 #### 5. Disjunktive Normalform
-Eine Schaltfunktion y mit drei Eingängen x1, x2, x3 sei durch folgende Funktionstabelle gegeben:
+Eine Schaltfunktion y mit drei Eingängen x1, x2, x3 sei durch folgende Funktionstabelle gegeben:
 
-| x_1 | x_2 | x_3 | f  |
+| x1  | x2  | x3  | y  |
 |-----|-----|-----|----|
 |  0  |   0 |   0 |  0 |
 |  0  |   0 |   1 |  1 |
@@ -32,17 +38,16 @@ Eine Schaltfunktion y mit drei Eingängen x1, x2, x3 sei durch folgende Funktio
 |  1  |   1 |   0 |  1 |
 |  1  |   1 |   1 |  1 |
 
-Geben Sie die Schaltfunktion in disjunktiver Normalform an, erstellen Sie das zugehörige KV-Diagramm und vereinfachen Sie die Funktion so weit wie möglich.
+Geben Sie die Schaltfunktion in disjunktiver Normalform an, erstellen Sie das zugehörige KV-Diagramm und vereinfachen Sie die Funktion so weit wie möglich.
 
 
 #### 6. Gatter erstellen
-ErstellenSieeineWertetabelleundeinenSchaltplanmitmöglichstwenigGatternfürdiefolgende Schaltfunktion:
+Erstellen Sie eine Wertetabelle und einen Schaltplan mit möglichst weni Gattern für die folgende Schaltfunktion:
 `f(x1, x2, x3) = (x1 & x2 & !x3) | (x1 & !x2 & !x3)`.
 
 
 #### 7. Logische Funktionen auf Bitfolgen anwenden
-Berechnen Sie `(a & !b) | c` für `a = 10111011`, `b = 01101010`, `c = 10101011`. Zeigen Sie an
-diesem Beispiel, dass `(a & !b) | c = (a | c) & (!b | c)` gilt.
+Berechnen Sie `(a & !b) | c` für `a = 10111011`, `b = 01101010`, `c = 10101011`. Zeigen Sie an diesem Beispiel, dass `(a & !b) | c = (a | c) & (!b | c)` gilt.
 
 
 #### 8. Bits in einem Byte umdrehen
@@ -66,9 +71,7 @@ Entwerfen Sie unter Verwendung von Gattern mit zwei Eingängen ein Oder-Gatter m
 
 
 #### 12. Schaltung entwerfen
-Entwerfen Sie eine Schaltung mit Gattern, die prüft ob einer der Passagiere seinen Gurt geschlossen hat (High-Signal vom Gurtsensor). Ist der Platz leer (Low-Signal vom Sitzplatzsensor)
-so darf auch der Gurt offen sein. Ist der Platz besetzt und der Gurt offen soll die
-Schaltung ein High-Signal ausgeben. Verknüpfen Sie dann zwei Sitzplätze zu einem Ergebnis-Signal.
+Entwerfen Sie eine Schaltung mit Gattern, die prüft ob einer der Passagiere seinen Gurt geschlossen hat (High-Signal vom Gurtsensor). Ist der Platz leer (Low-Signal vom Sitzplatzsensor) so darf auch der Gurt offen sein. Ist der Platz besetzt und der Gurt offen soll die Schaltung ein High-Signal ausgeben. Verknüpfen Sie dann zwei Sitzplätze zu einem Ergebnis-Signal.
 
 Entwerfen Sie zuerst eine Wahrheitstabelle und geben Sie dann eine Schaltung mit Gattern an.
 
