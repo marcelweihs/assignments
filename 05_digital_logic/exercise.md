@@ -42,7 +42,7 @@ Geben Sie die Schaltfunktion in disjunktiver Normalform an, erstellen Sie das zu
 
 
 #### 6. Gatter erstellen
-Erstellen Sie eine Wertetabelle und einen Schaltplan mit möglichst weni Gattern für die folgende Schaltfunktion:
+Erstellen Sie eine Wertetabelle und einen Schaltplan mit möglichst wenig Gattern für die folgende Schaltfunktion:
 `f(x1, x2, x3) = (x1 & x2 & !x3) | (x1 & !x2 & !x3)`.
 
 
