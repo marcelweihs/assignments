@@ -19,7 +19,7 @@ Schreiben Sie ein Shell-Skript für die Bash, das folgendes macht:
   1. Alle Zeilen der Datei `kafka.txt` werden ausgeben, in denen das Wort "Samsa" vorkommt. Zeilen, in denen "Frau Samsa" vorkommt werden aber nicht ausgegeben.
   2. Zu Beginn jeder gefundenen Zeile soll die Zeilennummer ausgegeben werden.
   3. Das Ergebnis soll in eine Textdatei namens `samsa.txt` geschrieben werden.
-  4. Geben Sie im nächsten Schritt alle Zeilen aus, die "Frau Samsa" enthalten, ebenfalls mit Zeilennummern davor.
+  4. Geben Sie im nächsten Schritt alle Zeilen aus `kafka.txt` aus, die "Frau Samsa" enthalten, ebenfalls mit Zeilennummern davor.
   5. Hängen Sie das Ergebnis an die Datei `samsa.txt` aus Schritt 3 an.
   6. Kopieren Sie nun die ersten und letzten 3 Zeilen von `samsa.txt` in eine neue Datei `samsa_kurz.txt`.
   7. Als letztes zählen Sie bitte die Zeichen und Wörter in `samsa.txt` und geben Sie diese auf der Console aus.
