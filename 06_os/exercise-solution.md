@@ -9,16 +9,25 @@ Für die Ausführung einiger dieser Übungen benötigen Sie ein funktionierendes
   * Unter Android die Terminal-Emulation [Termux](https://play.google.com/store/apps/details?id=com.termux) installieren
 
 
-
-#### 1. Betriebssystem
+#### Betriebssystem
 Was versteht man unter einem Betriebssystem, und was sind dessen zentrale Aufgaben? Welche Betriebssysteme kennen Sie?
 
+---
+Ein Betriebssystem, auch OS genannt, ist eine Zusammenstellung von Computerprogrammen, die die Systemressourcen eines Computers wie Arbeitsspeicher, Festplatten, Ein- und Ausgabegeräte verwaltet und diese Anwendungsprogrammen zur Verfügung stellt. Das Betriebssystem bildet dadurch die Schnittstelle zwischen den Hardware-Komponenten und der Anwendungssoftware des Benutzers. Betriebssysteme bestehen in der Regel aus einem Kernel (deutsch: Kern), der die Hardware des Computers verwaltet, sowie speziellen Programmen, die beim Start unterschiedliche Aufgaben übernehmen.
 
-#### 2. Betriebssystem auf Ihrem Smartphone
+Liste von Betriebssystemen...
+
+
+#### Betriebssystem auf Ihrem Smartphone
 Welches Betriebssystem befindet sich auf Ihrem Smartphone? Von welchem Betriebssystem stammt es ab?
 
+---
+  * iOS -> macOS -> Mach + BSD Unix -> Unix
+  * Android -> Linux -> Unix
+  * Windows Phone -> Windows -> VMS
 
-#### 3. Auf jonathan anmelden
+
+#### Auf jonathan anmelden
 Um auf den Rechner `jonathan.sv.hs-mannheim.de` zugreifen zu können, benötigen Sie einen ssh-Client
 
   * Windows: [PuTTY](https://putty.org)
@@ -30,12 +39,29 @@ Nachdem Sie den Client installiert haben, loggen Sie sich auf `jonathan.sv.hs-ma
 
 Finden Sie heraus, welchen Inhalt die Datei `/etc/exports` hat und geben Sie die ersten 10 Zeilen an.
 
+---
+Inhalt der Datei
+```console
+### /rest/doris anja.ki.hs-mannheim.de(rw,async,no_root_squash)
+### /rest/doris doris.ki.hs-mannheim.de(rw,async,no_root_squash)
+### /rest/doris 141.19.146.166(rw,async,no_root_squash)
 
-#### 4. Hilfe holen
+/usbdisk anja.ki.hs-mannheim.de(rw,async,no_root_squash)
+/usbdisk doris.ki.hs-mannheim.de(rw,async,no_root_squash)
+/usbdisk slm.sv.hs-mannheim.de(rw,async,no_root_squash)
+#/usbdisk/nora nora.sr.hs-mannheim.de(rw,async,no_root_squash)
+/localhome/schreibwerkstatt anja.ki.hs-mannheim.de(rw,async,no_root_squash)
+```
+
+
+#### Hilfe holen
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal). Verwenden Sie das Kommando `man`, um sich die Hilfe zum Kommando `ls` anzusehen. Welche Aufgabe hat die Option `-h` beim Kommando `ls`?
 
+---
+Die Option `-h` zeigt die Daten mit Anhängen für die Einheiten (Byte, Kilobyte, Megabyte, Gigabyte, Terabyte and Petabyte) an.
 
-#### 5. Verzeichnisse
+
+#### Verzeichnisse
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal).
 
   1. Was ist Ihr aktuelles Arbeitsverzeichnis?
@@ -45,8 +71,11 @@ Finden Sie heraus, welchen Inhalt die Datei `/etc/exports` hat und geben Sie die
 
 Schauen Sie sich ein wenig auf dem System um. Was fällt Ihnen auf? Welche Verzeichnisse und Dateien sehen Sie? Was fällt Ihnen auf?
 
+---
+Keine allgemeine Musterlösung möglich.
 
-#### 6. Verzeichnisse und Dateien anlegen/löschen
+
+#### Verzeichnisse und Dateien anlegen/löschen
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal).
 
   1. Legen Sie ein Verzeichnis an (`mkdir`)
@@ -57,8 +86,11 @@ Schauen Sie sich ein wenig auf dem System um. Was fällt Ihnen auf? Welche Verze
 
 Was passiert? Was müssen Sie tun, um das Verzeichnis zu löschen?
 
+---
+Das Verzeichnis kann nicht gelöscht werden, weil es nicht leer ist. Man muss entweder erst die Datei löschen (`rm`) und dann das Verzeichnis oder man muss beim `rm` dir Option `-rf` angeben.
 
-#### 7. Dateien kopieren/verschieben
+
+#### Dateien kopieren/verschieben
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal).
 
   1. Legen Sie ein Verzeichnis an (`mkdir`)
@@ -73,8 +105,11 @@ Was sehen Sie?
   7. Legen Sie ein weiteres Verzeichnis an (`mkdir`)
   8. Verschieben Sie eine der beiden Dateien in das neue Verzeichnis (`mv`)
 
+---
+Das `diff`-Kommando sollte die Unterschiede zwischen den Dateien zeilenweise anzeigen.
 
-#### 8. Weitere Unix-Kommandos
+
+#### Weitere Unix-Kommandos
 Schauen Sie sich die Hilfeseiten (oder das Buch "The Linux Command Line") zu den folgenden Kommandos an und geben Sie zu jedem kurz (in einem Satz) dessen Aufgabe an.
 
   1. `file`
@@ -96,8 +131,11 @@ Schauen Sie sich die Hilfeseiten (oder das Buch "The Linux Command Line") zu den
   17. `du`
   18. `df`
 
+---
+Zu jedem Kommando eine kurze Beschreibung...
 
-#### 9. Spezielle Verzeichnisse
+
+#### Spezielle Verzeichnisse
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal). Schauen Sie sich auf der Festplatte ein wenig um, indem Sie mit `cd` durch die Verzeichnisse gehen und sich deren Inhalt mit `ls` anzeigen lassen.
 
 Wozu dienen die folgenden Verzeichnisse:
@@ -108,8 +146,15 @@ Wozu dienen die folgenden Verzeichnisse:
   4. `/home`
   5. `/tmp`
 
+---
+  1. `/etc`: Konfigurationsdateien
+  2. `/dev`: Geräte
+  3. `/bin`: Ausführbare Programme
+  4. `/home`: Daten der Benutzer
+  5. `/tmp`: Temporäre Dateien
 
-#### 10. Berechtigungen
+
+#### Berechtigungen
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal). Schauen Sie sich die Hilfeseiten (oder das Buch "The Linux Command Line") zu den folgenden Kommandos an und experimentieren Sie damit ein wenig.
 
   1. `chmod`
@@ -122,8 +167,7 @@ Wozu dienen die folgenden Verzeichnisse:
 Keine Abgabe nötig! Ihr Wissen wird dann vor Ort geprüft.
 
 
-
-#### 11. Prozesse
+#### Prozesse
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal). Schauen Sie sich die Hilfeseiten (oder das Buch "The Linux Command Line") zu den folgenden Kommandos an und experimentieren Sie damit ein wenig.
 
   1. `ps`
@@ -135,9 +179,10 @@ Keine Abgabe nötig! Ihr Wissen wird dann vor Ort geprüft.
 Keine Abgabe nötig! Ihr Wissen wird dann vor Ort geprüft.
 
 
-
-#### 12. Eingabe- und Ausgabeumlenkung
+#### Eingabe- und Ausgabeumlenkung
 Öffnen Sie auf einem Rechner mit dem Betriebssystem Linux eine Shell (Terminal). Experimentieren Sie mit der Eingabe-/Ausgabeumlenkung (`>`, `<`) und Pipes (`|`). Siehe hierzu Kapitel 6 in "The Linux Command Line".
 
 Was ist der Unterschied zwischen `>`/`<` und `|`?
 
+---
+`>`/`<` verwendet man mit Dateien, `|` mit Programmen.
