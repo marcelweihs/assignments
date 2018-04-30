@@ -1,4 +1,4 @@
-# Automaten und formale Sprachen
+# Theoretische Informatik 
 
 > "Die erste echte KI wird den Turing-Test absichtlich nicht bestehen"
 
