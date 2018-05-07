@@ -34,6 +34,7 @@ Schauen Sie sich Informationen zum Aufbau und zur Funktion von Computernetzen an
 ## Quellen
 
   * Herold, et al. "Grundlagen der Informatik", 3. Auflage, Pearson Studium, Halbergmoos 2017, S. 463--475
+  * Vorlesungsfolien zu Computernetzwerken (siehe Moodle)
   * Wikipedia: [IP-Adresse](https://de.wikipedia.org/wiki/IP-Adresse)
   * Wikipedia: [Ethernet](https://de.wikipedia.org/wiki/Ethernet)
   * Wikipedia: [Hidden Station Problem](https://de.wikipedia.org/wiki/Carrier_Sense_Multiple_Access/Collision_Avoidance#Hidden-Station-Problem)
@@ -43,7 +44,6 @@ Schauen Sie sich Informationen zum Aufbau und zur Funktion von Computernetzen an
   * Video: [Computer Networks: Crash Course Computer Science #28](https://youtu.be/3QhU9jd03a0)
   * Video: [The Internet: Crash Course Computer Science #29](https://youtu.be/AEaKrq3SpW8)
   
-
 
 ## Übung
 
