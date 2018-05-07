@@ -40,6 +40,7 @@ Schauen Sie sich Informationen zum Aufbau und zur Funktion von Computernetzen an
   * Wikipedia: [Hidden Station Problem](https://de.wikipedia.org/wiki/Carrier_Sense_Multiple_Access/Collision_Avoidance#Hidden-Station-Problem)
   * Wikipedia: [DHCP](https://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
   * Wikipedia: [ARP](https://de.wikipedia.org/wiki/Address_Resolution_Protocol)
+  * Video: [Eli the Computer Guy: The OSI Model Demystified](https://youtu.be/HEEnLZV2wGI)
   * Video: [Netzwerke und Verteilte Systeme | Informatik Lernvideo](https://youtu.be/UCj3NpoUWys)
   * Video: [Computer Networks: Crash Course Computer Science #28](https://youtu.be/3QhU9jd03a0)
   * Video: [The Internet: Crash Course Computer Science #29](https://youtu.be/AEaKrq3SpW8)
